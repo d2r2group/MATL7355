@@ -1,0 +1,60 @@
+project: 
+  type: website
+
+website: 
+  page-navigation: true
+  title: "MATL 7355 - Thermodynamics of Materials" 
+  site-url: "https://peterschindler.github.io/MATL7355/" 
+  repo-url: "https://github.com/peterschindler/MATL7355"
+  repo-actions: [edit, source, issue]
+  favicon: images/favicon.ico
+  
+  page-footer:
+    right: "This page is built with [Quarto](https://quarto.org/)."
+    left: "&copy; Peter Schindler"
+  
+  sidebar:
+    background: "#B6B8F0"
+    logo: images/quarto_logo.png
+    favicon: images/favicon.ico
+    pinned: true
+    align: center
+    tools: 
+      - icon: globe
+        href: https://pschindler.net
+        text: "pschindler.net"
+      - icon: github
+        href: https://github.com/peterschindler/MATL7355
+        text: "GitHub Repository"
+
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - href: content/info.qmd
+        text: Course Information
+      - href: content/syllabus.qmd
+        text: Syllabus
+      - href: content/grading.qmd
+        text: Grading
+      - href: content/final_project.qmd
+        text: Final Projects
+      - href: content/other.qmd
+        text: Other Information
+
+
+format:
+  html:
+    theme:
+      light: [cosmo, theme.scss] 
+      dark: [cosmo, theme-dark.scss]
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+
+
+filters:
+  - include-files.lua
+  - quarto
+
+  

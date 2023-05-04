@@ -1,0 +1,67 @@
+---
+title: Course Information
+---
+
+## Basic information
+
+**Date/Time**: Tuesday and Thursday 6:00 pm – 7:40 pm\
+**Location**: Ryder Hall 220\
+**Canvas Website**: [northeastern.instructure.com/courses/124384](https://northeastern.instructure.com/courses/124384)\
+**Credits**: 4 semester-hours\
+
+## Instructor Contact
+
+**Name**: Asst. Prof. Peter Schindler (you can call me *Prof. Peter*, *Professor*, or *Dr. Peter*)\
+**Email**: p.schindler (at) northeastern.edu\
+**Office Location**: 275 SN\
+**Office Hours**: Once a week (Day is decided during the first lecture).\
+
+## Primary Textbook
+
+No textbook will be explicitly required. However, a large portion of the course will follow the textbook by Gaskell and Laughlin:
+
+::: {.callout-important title="Primary textbook"}
+D. R. Gaskell and D. E. Laughlin, *“Introduction to the Thermodynamics of Materials“*, Sixth Edition, Taylor & Francis, Washington, DC, 2018.
+:::
+
+## Secondary Literature
+
+There are a few other textbooks that can be of interest (and the last three are available on Amazon for about $10 each):
+
+::: {.callout-tip title="Interesting classification of binary phase diagrams"}
+Boris S. Bokstein, Mikhail I. Mendelev, David J. Srolovitz, *“Thermodynamics and Kinetics in Materials Science”*, Oxford University Press, 2005.
+:::
+
+::: {.callout-tip title="Chemistry viewpoint"}
+Svein Stølen and Tor Grande, *“Chemical Thermodynamics of Materials: Macroscopic and Microscopic Aspects”*, Wiley, 1st Edition, 2004.
+:::
+
+::: {.callout-tip title="Easy read"}
+H. C. Van Ness, *“Understanding Thermodynamics”*, Dover Publications Inc., 1983.
+:::
+
+::: {.callout-tip title="Historic context"}
+Don S. Lemons, *“Thermodynamic Weirdness”*, The MIT Press, 2020.
+:::
+
+::: {.callout-tip title="Succinctly written"}
+Enrico Fermi, *“Thermodynamics”*, Dead Authors Society, 2020.
+:::
+
+
+## Learning Outcomes
+After completing this course students will...
+
+- understand the basics of thermodynamics including the 3 laws of thermodynamics and extensive/intensive properties.
+- become proficient in applying the laws of thermodynamic on various processes (e.g. isothermal, isobaric,...).
+- understand the concepts entropy, thermodynamic potentials (such as enthalpy and Gibbs free energy), work, heat, etc.
+- know the difference between exact and inexact differentials and the difference between path and state functions.
+- will be able to do thermochemistry calculations and understand temperature dependence of heat capacity and enthalpy.
+- know the basics of statistical thermodynamics and what micro/macrostates are.
+- be able to use Maxwell's relations.
+- understand and be able to read single component and binary (and ternary) phase diagrams.
+- understand ideal and non-ideal gas behavior.
+- know the basics of solution thermodynamics (Henry and Raoult's laws and Hume-Rothery rules).
+
+
+

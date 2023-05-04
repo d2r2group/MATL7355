@@ -1,0 +1,73 @@
+---
+title: Final Projects
+---
+
+## Topics
+
+The topic selection takes place on a Google Sheet (link will be provided later) in which you can select from a list of topics or come up with your own topic.\
+Ideally, there will be 1 topic per student but certain topics are very broad and can be done in a team of 2 (with a clearly separated focus).
+
+
+## Deliverables
+
+The final project consists of 3 main deliverables:
+
+1. Paper (~3-5 pages)
+    - Abstract
+    - Introduction
+    - In-depth discussion of specific problem/material system/concept
+    - Conclusion
+    - References
+2. One homework-type problem with the solution
+3. 20-25 mins presentation (~10-13 slides) + 5 mins questions
+    - Focus on explanation/overview
+    - Summarize the specific problem/material you selected
+
+Whenever relevant, use concepts we covered in class (e.g., entropy change, enthalpy, phase diagrams,…).
+
+The homework-type problem will be submitted alongside the paper.
+
+Please use the docx template that will be provided on Canvas.
+
+
+## Timeline
+
+There are two checkpoints to ensure that the project is on track:
+
+**Checkpoint 1** (early November):
+Topics should be chosen and finalized. Ideally, the topic should be narrowed down and a focus should be set on the broad topics.
+Please, send me an email with the topic title and the specific focus you envision.
+
+**Checkpoint 2** (mid/late November):
+An abstract draft should be written and the main literature resources selected. The main problem or material system should be clearly identified.
+Please, send me an email with the abstract draft and a list of the main resources that you plan to use. Also, if not already done at checkpoint 1, clearly detail what your focus will be.
+
+**Paper Due and Date of Presentations**:
+The papers will be due roughly one week before finals week. Depending on the number of students there will be one or two days during finals week for presentations.
+
+
+## Evaluation
+
+I will be evaluating the project based on the following criteria and score them from 1 to 5 (1 - poor, 2 - below average, 3 - average, 4 - above average, 5 - excellent).
+
+1. Paper
+    - Clarity of writing
+    - Quality of literature scope
+    - Use of figures, equations, and illustrations
+    - Use of thermodynamics concepts
+    - Main topic selection
+    - Quality of topic discussion
+2. Homework
+    - Problem selection
+    - Quality of how well the problem aids the learning of the chosen topic
+3. Presentation
+    - Clarity of explanation
+    - Quality of slides
+    - Time management
+    - Handling of Q & A
+
+You can choose between three grade-weighting schemes [Paper grade weight % / Homework grade weight % / Presentation grade weight %]:
+
+A: 40/20/40\
+B: 50/20/30\
+C: 30/20/50\
