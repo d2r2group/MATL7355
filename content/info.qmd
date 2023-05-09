@@ -50,18 +50,18 @@ Enrico Fermi, *“Thermodynamics”*, Dead Authors Society, 2020.
 
 
 ## Learning Outcomes
-After completing this course students will...
+This course will give students the opportunity to...
 
 - understand the basics of thermodynamics including the 3 laws of thermodynamics and extensive/intensive properties.
 - become proficient in applying the laws of thermodynamic on various processes (e.g. isothermal, isobaric,...).
 - understand the concepts entropy, thermodynamic potentials (such as enthalpy and Gibbs free energy), work, heat, etc.
-- know the difference between exact and inexact differentials and the difference between path and state functions.
-- will be able to do thermochemistry calculations and understand temperature dependence of heat capacity and enthalpy.
-- know the basics of statistical thermodynamics and what micro/macrostates are.
-- be able to use Maxwell's relations.
-- understand and be able to read single component and binary (and ternary) phase diagrams.
+- learn the difference between exact and inexact differentials and the difference between path and state functions.
+- master thermochemistry calculations and understand temperature dependence of heat capacity and enthalpy.
+- learn the basics of statistical thermodynamics and what micro/macrostates are.
+- become comfortable with implementing Maxwell's relations.
+- understand and learn to read single component and binary (and ternary) phase diagrams.
 - understand ideal and non-ideal gas behavior.
-- know the basics of solution thermodynamics (Henry and Raoult's laws and Hume-Rothery rules).
+- learn the basics of solution thermodynamics (Henry and Raoult's laws and Hume-Rothery rules).
 
 
 
