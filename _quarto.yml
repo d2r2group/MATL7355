@@ -4,8 +4,8 @@ project:
 website: 
   page-navigation: true
   title: "MATL 7355 - Thermodynamics of Materials" 
-  site-url: "https://peterschindler.github.io/MATL7355/" 
-  repo-url: "https://github.com/peterschindler/MATL7355"
+  site-url: "https://d2r2group.github.io/MATL7355/" 
+  repo-url: "https://github.com/d2r2group/MATL7355"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
   
