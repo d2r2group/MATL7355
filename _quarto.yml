@@ -8,7 +8,7 @@ website:
   title: "MATL 7355 - Thermodynamics of Materials" 
   site-url: "https://matl7355.d2r2group.com" 
   repo-url: "https://github.com/d2r2group/MATL7355"
-  repo-actions: [edit, source, issue]
+  repo-actions: [issue]
   google-analytics: "G-87R3RGZC2K"
   favicon: images/favicon.ico
   
