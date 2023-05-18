@@ -1,16 +1,19 @@
 project: 
   type: website
 
+date: last-modified
+
 website: 
   page-navigation: true
   title: "MATL 7355 - Thermodynamics of Materials" 
   site-url: "https://d2r2group.github.io/MATL7355/" 
   repo-url: "https://github.com/d2r2group/MATL7355"
   repo-actions: [edit, source, issue]
+  google-analytics: "G-87R3RGZC2K"
   favicon: images/favicon.ico
   
   page-footer:
-    right: "This page is built with [Quarto](https://quarto.org/)."
+    right: "*Last Update:* {{< meta date >}}"
     left: "&copy; Peter Schindler"
   
   sidebar:
@@ -24,7 +27,7 @@ website:
         href: https://pschindler.net
         text: "pschindler.net"
       - icon: github
-        href: https://github.com/peterschindler/MATL7355
+        href: https://github.com/d2r2group/MATL7355
         text: "GitHub Repository"
 
     style: "docked"
@@ -51,6 +54,7 @@ format:
     code-copy: true
     code-overflow: wrap
     toc: true
+    link-external-newwindow: true
 
 
 filters:
