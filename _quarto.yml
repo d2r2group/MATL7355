@@ -51,6 +51,8 @@ format:
     theme:
       light: [cosmo, theme.scss] 
       dark: [cosmo, theme-dark.scss]
+    template-partials:
+      - title-block.html
     code-copy: true
     code-overflow: wrap
     toc: true
