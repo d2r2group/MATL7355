@@ -11,10 +11,25 @@ title: Course Information
 
 ## Instructor Contact
 
+:::: {.columns}
+
+::: {.column width="70%"}
 **Name**: Asst. Prof. Peter Schindler (you can call me *Prof. Peter*, *Professor*, or *Dr. Peter*)\
 **Email**: p.schindler (at) northeastern.edu\
 **Office Location**: 275 SN\
 **Office Hours**: Once a week (Day is decided during the first lecture).\
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="20%"}
+![](../images/ps.jpg)
+:::
+
+::::
+
 
 ## Primary Textbook
 
