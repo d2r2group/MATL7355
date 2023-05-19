@@ -13,3 +13,8 @@ of providing students with a thermodynamics background suitable for understandin
 changes in materials that occur in materials processing and manufacturing. Emphasis is placed on metals and alloys in
 their condensed states although gaseous phases are included where relevant. This course is a prerequisite for
 MATL7360 – *Kinetics of Phase Transformations*.
+
+::: {.callout-important title="Disclaimer"}
+While I try to keep this website as up-to-date as possible, certain details regarding syllabus, content
+and grading may change from term to term.
+:::

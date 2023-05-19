@@ -44,6 +44,8 @@ website:
         text: Final Projects
       - href: content/other.qmd
         text: Other Information
+      - href: content/quals.qmd
+        text: PhD Qualification Exam
 
 
 format:
