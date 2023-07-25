@@ -15,7 +15,7 @@ depending on student's interest and pace.
 | Week 3/Day 2  | Statistical interpretation of the second law |  |
 | Week 4/Day 1  | Heat Capacity and Thermochemistry | HW3 |
 | Week 4/Day 2  | The third law of thermodynamics |  |
-| Week 5/Day 1  | Review session for mid-term exam | HW4 |
+| Week 5/Day 1  | Review session for mid-term exam 1 | HW4 |
 | Week 5/Day 2  | **Mid-term exam 1** (in-class)  |  |
 | Week 6/Day 1  | Phase equilibria I: One-component systems |  |
 | Week 6/Day 2  | Phase equilibria I: One-component systems  |  |
@@ -23,10 +23,10 @@ depending on student's interest and pace.
 | Week 7/Day 2  | Thermodynamics of gases |  |
 | Week 8/Day 1  | Thermodynamics of solutions | HW6 |
 | Week 8/Day 2  | Thermodynamics of solutions |  |
-| Week 9/Day 1  | Thermodynamics of solutions | HW7 |
+| Week 9/Day 1  | Phase equilibria II: Two-component systems | HW7 |
 | Week 9/Day 2  | Phase equilibria II: Two-component systems |  |
 | Week 10/Day 1 | Phase equilibria II: Two-component systems | HW8 |
-| Week 10/Day 2 | Phase equilibria II: Two-component systems |  |
+| Week 10/Day 2 | Review session for mid-term exam 2 |  |
 | Week 11/Day 1 | **Mid-term exam 2** (in-class) |  |
 | Week 11/Day 2 | Statistical Thermodynamics  |  |
 | Week 12/Day 1 | Thanksgiving recess (no class) |  |
