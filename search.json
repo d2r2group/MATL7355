@@ -1,103 +1,5 @@
 [
   {
-    "objectID": "content/info.html",
-    "href": "content/info.html",
-    "title": "Course Information",
-    "section": "",
-    "text": "Date/Time: Tuesday and Thursday 6:00 pm – 7:40 pm\nLocation: Ryder Hall 220\nCanvas Website: northeastern.instructure.com/courses/124384\nCredits: 4 semester-hours"
-  },
-  {
-    "objectID": "content/info.html#basic-information",
-    "href": "content/info.html#basic-information",
-    "title": "Course Information",
-    "section": "",
-    "text": "Date/Time: Tuesday and Thursday 6:00 pm – 7:40 pm\nLocation: Ryder Hall 220\nCanvas Website: northeastern.instructure.com/courses/124384\nCredits: 4 semester-hours"
-  },
-  {
-    "objectID": "content/info.html#instructor-contact",
-    "href": "content/info.html#instructor-contact",
-    "title": "Course Information",
-    "section": "Instructor Contact",
-    "text": "Instructor Contact\n\n\nName: Asst. Prof. Peter Schindler (you can call me Prof. Peter, Professor, or Dr. Peter)\nEmail: p.schindler (at) northeastern.edu\nOffice Location: 275 SN\nOffice Hours: Once a week (Day is decided during the first lecture)."
-  },
-  {
-    "objectID": "content/info.html#primary-textbook",
-    "href": "content/info.html#primary-textbook",
-    "title": "Course Information",
-    "section": "Primary Textbook",
-    "text": "Primary Textbook\nNo textbook will be explicitly required. However, a large portion of the course will follow the textbook by Gaskell and Laughlin:\n\n\n\n\n\n\nPrimary textbook\n\n\n\nD. R. Gaskell and D. E. Laughlin, “Introduction to the Thermodynamics of Materials“, Sixth Edition, Taylor & Francis, Washington, DC, 2018."
-  },
-  {
-    "objectID": "content/info.html#secondary-literature",
-    "href": "content/info.html#secondary-literature",
-    "title": "Course Information",
-    "section": "Secondary Literature",
-    "text": "Secondary Literature\nThere are a few other textbooks that can be of interest (and the last three are available on Amazon for about $10 each):\n\n\n\n\n\n\nInteresting classification of binary phase diagrams\n\n\n\nBoris S. Bokstein, Mikhail I. Mendelev, David J. Srolovitz, “Thermodynamics and Kinetics in Materials Science”, Oxford University Press, 2005.\n\n\n\n\n\n\n\n\nChemistry viewpoint\n\n\n\nSvein Stølen and Tor Grande, “Chemical Thermodynamics of Materials: Macroscopic and Microscopic Aspects”, Wiley, 1st Edition, 2004.\n\n\n\n\n\n\n\n\nEasy read\n\n\n\nH. C. Van Ness, “Understanding Thermodynamics”, Dover Publications Inc., 1983.\n\n\n\n\n\n\n\n\nHistoric context\n\n\n\nDon S. Lemons, “Thermodynamic Weirdness”, The MIT Press, 2020.\n\n\n\n\n\n\n\n\nSuccinctly written\n\n\n\nEnrico Fermi, “Thermodynamics”, Dead Authors Society, 2020."
-  },
-  {
-    "objectID": "content/info.html#learning-outcomes",
-    "href": "content/info.html#learning-outcomes",
-    "title": "Course Information",
-    "section": "Learning Outcomes",
-    "text": "Learning Outcomes\nThis course will give students the opportunity to…\n\nunderstand the basics of thermodynamics including the 3 laws of thermodynamics and extensive/intensive properties.\nbecome proficient in applying the laws of thermodynamic on various processes (e.g. isothermal, isobaric,…).\nunderstand the concepts entropy, thermodynamic potentials (such as enthalpy and Gibbs free energy), work, heat, etc.\nlearn the difference between exact and inexact differentials and the difference between path and state functions.\nmaster thermochemistry calculations and understand temperature dependence of heat capacity and enthalpy.\nlearn the basics of statistical thermodynamics and what micro/macrostates are.\nbecome comfortable with implementing Maxwell’s relations.\nunderstand and learn to read single component and binary (and ternary) phase diagrams.\nunderstand ideal and non-ideal gas behavior.\nlearn the basics of solution thermodynamics (Henry and Raoult’s laws and Hume-Rothery rules)."
-  },
-  {
-    "objectID": "content/grading.html",
-    "href": "content/grading.html",
-    "title": "Grading",
-    "section": "",
-    "text": "Percentage of Final Grade\nIndividual Grade Contribution\n\n\n\n\n5\nIn-class participation\n\n\n25\nHomework\n\n\n20\nMidterm exam 1\n\n\n15\nMidterm exam 2\n\n\n35\nFinal Project\n\n\n\n\n\n\n\n\n\nImportant\n\n\n\nHomework is due on the due-date before 11:59 pm and is preferably uploaded to Canvas.\n\n\n\n\n\n\n\n\nNote\n\n\n\nOne late homework accepted during the entire course. Any further late submissions will count as 0.\n\n\n\n\n\n\n\n\nNote\n\n\n\nThe lowest homework score will be dropped."
-  },
-  {
-    "objectID": "content/grading.html#final-grade-breakdown",
-    "href": "content/grading.html#final-grade-breakdown",
-    "title": "Grading",
-    "section": "",
-    "text": "Percentage of Final Grade\nIndividual Grade Contribution\n\n\n\n\n5\nIn-class participation\n\n\n25\nHomework\n\n\n20\nMidterm exam 1\n\n\n15\nMidterm exam 2\n\n\n35\nFinal Project\n\n\n\n\n\n\n\n\n\nImportant\n\n\n\nHomework is due on the due-date before 11:59 pm and is preferably uploaded to Canvas.\n\n\n\n\n\n\n\n\nNote\n\n\n\nOne late homework accepted during the entire course. Any further late submissions will count as 0.\n\n\n\n\n\n\n\n\nNote\n\n\n\nThe lowest homework score will be dropped."
-  },
-  {
-    "objectID": "content/grading.html#final-percentage-score-to-letter-grade-conversion",
-    "href": "content/grading.html#final-percentage-score-to-letter-grade-conversion",
-    "title": "Grading",
-    "section": "Final Percentage Score to Letter Grade Conversion",
-    "text": "Final Percentage Score to Letter Grade Conversion\n\n\n\nFinal percentage Score\nLetter grade\n4.0 Scale\n\n\n\n\n93-100\nA\n4.0\n\n\n90-92\nA-\n3.7\n\n\n87-89\nB+\n3.3\n\n\n83-86\nB\n3.0\n\n\n80-82\nB-\n2.7\n\n\n77-79\nC+\n2.3\n\n\n73-76\nC\n2.0\n\n\n70-72\nC-\n1.7\n\n\n67-69\nD+\n1.3\n\n\n63-66\nD\n1.0\n\n\n60-62\nD-\n0.7\n\n\n&lt;60\nF\n0.0"
-  },
-  {
-    "objectID": "content/grading.html#midterm-exam-grading",
-    "href": "content/grading.html#midterm-exam-grading",
-    "title": "Grading",
-    "section": "Midterm Exam Grading",
-    "text": "Midterm Exam Grading\nThe midterm exams will be graded on a curve such that the average score is a B. However, I will not truncate the high scores which means that scores higher than 100% are possible. This way, everyone benefits from the grade curving process.\nFor the midterm letter grade, the same grade conversion applies as above, however scores greater or equal to 97 will receive the A+ grade (unlike for the final grade, where A is the highest grade at Northeastern University)."
-  },
-  {
-    "objectID": "content/grading.html#final-project-grading",
-    "href": "content/grading.html#final-project-grading",
-    "title": "Grading",
-    "section": "Final Project Grading",
-    "text": "Final Project Grading\nSee evaluation criteria on the finals project page."
-  },
-  {
-    "objectID": "content/quals.html",
-    "href": "content/quals.html",
-    "title": "PhD Qualification Exam - Materials Concentration",
-    "section": "",
-    "text": "MATL 7355 is a core course for the PhD qualification exam in MIE for the materials concentration."
-  },
-  {
-    "objectID": "content/quals.html#information-for-qualification-exam-2023",
-    "href": "content/quals.html#information-for-qualification-exam-2023",
-    "title": "PhD Qualification Exam - Materials Concentration",
-    "section": "Information for Qualification Exam 2023",
-    "text": "Information for Qualification Exam 2023\nInformation on what to expect for the qualification exam will be added closer to the date of the exams."
-  },
-  {
-    "objectID": "content/syllabus.html",
-    "href": "content/syllabus.html",
-    "title": "Syllabus",
-    "section": "",
-    "text": "The course syllabus below is a general outline of the course’s content but is subject to small changes depending on student’s interest and pace.\n\n\n\n\n\n\n\n\nWeek/Date\nTopic\nHomework Due\n\n\n\n\nWeek 1/Day 1\nIntroduction and history of thermodynamics\n\n\n\nWeek 1/Day 2\nBasic concepts and history of the first law\n\n\n\nWeek 2/Day 1\nFirst law of thermodynamics\nHW1\n\n\nWeek 2/Day 2\nSecond law of thermodynamics\n\n\n\nWeek 3/Day 1\nFundamental thermodynamic relations/equations\nHW2\n\n\nWeek 3/Day 2\nStatistical interpretation of the second law\n\n\n\nWeek 4/Day 1\nHeat Capacity and Thermochemistry\nHW3\n\n\nWeek 4/Day 2\nThe third law of thermodynamics\n\n\n\nWeek 5/Day 1\nReview session for mid-term exam\nHW4\n\n\nWeek 5/Day 2\nMid-term exam 1 (in-class)\n\n\n\nWeek 6/Day 1\nPhase equilibria I: One-component systems\n\n\n\nWeek 6/Day 2\nPhase equilibria I: One-component systems\n\n\n\nWeek 7/Day 1\nThermodynamics of gases\nHW5\n\n\nWeek 7/Day 2\nThermodynamics of gases\n\n\n\nWeek 8/Day 1\nThermodynamics of solutions\nHW6\n\n\nWeek 8/Day 2\nThermodynamics of solutions\n\n\n\nWeek 9/Day 1\nThermodynamics of solutions\nHW7\n\n\nWeek 9/Day 2\nPhase equilibria II: Two-component systems\n\n\n\nWeek 10/Day 1\nPhase equilibria II: Two-component systems\nHW8\n\n\nWeek 10/Day 2\nPhase equilibria II: Two-component systems\n\n\n\nWeek 11/Day 1\nMid-term exam 2 (in-class)\n\n\n\nWeek 11/Day 2\nStatistical Thermodynamics\n\n\n\nWeek 12/Day 1\nThanksgiving recess (no class)\n\n\n\nWeek 12/Day 2\nAdvanced Topic\n\n\n\nWeek 13/Day 1\nAdvanced Topic\n\n\n\nWeek 13/Day 2\nAdvanced Topic\n\n\n\nWeek 14/Day 1\nAdvanced Topic / Final project presentations (in-class)\n\n\n\nWeek 14/Day 2\nFinal project presentations (in-class)\n\n\n\n\nAdvanced Topics: Ternary Phase diagrams, predominance phase diagrams, electrochemistry, statistical thermodynamics & molecular dynamics, phase transformations, condensed - gaseous phase reactions,…\n\n\n\n\n\n\nNote\n\n\n\nHomework due dates and Thanksgiving recess are estimates and may vary year to year"
-  },
-  {
     "objectID": "content/other.html",
     "href": "content/other.html",
     "title": "Other Information",
@@ -168,10 +70,108 @@
     "text": "Evaluation\nI will be evaluating the project based on the following criteria and score them from 1 to 5 (1 - poor, 2 - below average, 3 - average, 4 - above average, 5 - excellent).\n\nPaper\n\nClarity of writing\nQuality of literature scope\nUse of figures, equations, and illustrations\nUse of thermodynamics concepts\nMain topic selection\nQuality of topic discussion\n\nHomework\n\nProblem selection\nQuality of how well the problem aids the learning of the chosen topic\n\nPresentation\n\nClarity of explanation\nQuality of slides\nTime management\nHandling of Q & A\n\n\nYou can choose between three grade-weighting schemes [Paper grade weight % / Homework grade weight % / Presentation grade weight %]:\nA: 40/20/40\nB: 50/20/30\nC: 30/20/50"
   },
   {
+    "objectID": "content/info.html",
+    "href": "content/info.html",
+    "title": "Course Information",
+    "section": "",
+    "text": "Date/Time: Tuesday and Thursday 6:00 pm – 7:40 pm\nLocation: TBD (typically in Ryder Hall)\nCanvas Website: northeastern.instructure.com/courses/124384\nCredits: 4 semester-hours"
+  },
+  {
+    "objectID": "content/info.html#basic-information",
+    "href": "content/info.html#basic-information",
+    "title": "Course Information",
+    "section": "",
+    "text": "Date/Time: Tuesday and Thursday 6:00 pm – 7:40 pm\nLocation: TBD (typically in Ryder Hall)\nCanvas Website: northeastern.instructure.com/courses/124384\nCredits: 4 semester-hours"
+  },
+  {
+    "objectID": "content/info.html#instructor-contact",
+    "href": "content/info.html#instructor-contact",
+    "title": "Course Information",
+    "section": "Instructor Contact",
+    "text": "Instructor Contact\n\n\nName: Asst. Prof. Peter Schindler (you can call me Prof. Peter, Professor, or Dr. Peter)\nEmail: p.schindler (at) northeastern.edu\nOffice Location: 275 SN\nOffice Hours: Once a week (Day is decided during the first lecture)."
+  },
+  {
+    "objectID": "content/info.html#primary-textbook",
+    "href": "content/info.html#primary-textbook",
+    "title": "Course Information",
+    "section": "Primary Textbook",
+    "text": "Primary Textbook\nNo textbook will be explicitly required. However, a large portion of the course will follow the textbook by Gaskell and Laughlin:\n\n\n\n\n\n\nPrimary textbook\n\n\n\nD. R. Gaskell and D. E. Laughlin, “Introduction to the Thermodynamics of Materials“, Sixth Edition, Taylor & Francis, Washington, DC, 2018."
+  },
+  {
+    "objectID": "content/info.html#secondary-literature",
+    "href": "content/info.html#secondary-literature",
+    "title": "Course Information",
+    "section": "Secondary Literature",
+    "text": "Secondary Literature\nThere are a few other textbooks that can be of interest (and the last three are available on Amazon for about $10 each):\n\n\n\n\n\n\nInteresting classification of binary phase diagrams\n\n\n\nBoris S. Bokstein, Mikhail I. Mendelev, David J. Srolovitz, “Thermodynamics and Kinetics in Materials Science”, Oxford University Press, 2005.\n\n\n\n\n\n\n\n\nChemistry viewpoint\n\n\n\nSvein Stølen and Tor Grande, “Chemical Thermodynamics of Materials: Macroscopic and Microscopic Aspects”, Wiley, 1st Edition, 2004.\n\n\n\n\n\n\n\n\nEasy read\n\n\n\nH. C. Van Ness, “Understanding Thermodynamics”, Dover Publications Inc., 1983.\n\n\n\n\n\n\n\n\nHistoric context\n\n\n\nDon S. Lemons, “Thermodynamic Weirdness”, The MIT Press, 2020.\n\n\n\n\n\n\n\n\nSuccinctly written\n\n\n\nEnrico Fermi, “Thermodynamics”, Dead Authors Society, 2020."
+  },
+  {
+    "objectID": "content/info.html#learning-outcomes",
+    "href": "content/info.html#learning-outcomes",
+    "title": "Course Information",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\nThis course will give students the opportunity to…\n\nunderstand the basics of thermodynamics including the 3 laws of thermodynamics and extensive/intensive properties.\nbecome proficient in applying the laws of thermodynamic on various processes (e.g. isothermal, isobaric,…).\nunderstand the concepts entropy, thermodynamic potentials (such as enthalpy and Gibbs free energy), work, heat, etc.\nlearn the difference between exact and inexact differentials and the difference between path and state functions.\nmaster thermochemistry calculations and understand temperature dependence of heat capacity and enthalpy.\nlearn the basics of statistical thermodynamics and what micro/macrostates are.\nbecome comfortable with implementing Maxwell’s relations.\nunderstand and learn to read single component and binary (and ternary) phase diagrams.\nunderstand ideal and non-ideal gas behavior.\nlearn the basics of solution thermodynamics (Henry and Raoult’s laws and Hume-Rothery rules)."
+  },
+  {
     "objectID": "index.html#course-summary",
     "href": "index.html#course-summary",
     "title": "MATL 7355 – Thermodynamics of Materials",
     "section": "Course Summary",
     "text": "Course Summary\nMATL7355 – Thermodynamics of Materials is a 4 semester-hour graduate course. It covers the fundamentals of thermodynamics (the three laws, state functions, closed and open systems, behaviors of solutions, phase equilibria and stability, relations to phase diagrams, and other selected special topics) with the objective of providing students with a thermodynamics background suitable for understanding transformations and microstructural changes in materials that occur in materials processing and manufacturing. Emphasis is placed on metals and alloys in their condensed states although gaseous phases are included where relevant. This course is a prerequisite for MATL7360 – Kinetics of Phase Transformations.\n\n\n\n\n\n\nDisclaimer\n\n\n\nWhile I try to keep this website as up-to-date as possible, certain details regarding syllabus, content and grading may change from term to term."
+  },
+  {
+    "objectID": "content/grading.html",
+    "href": "content/grading.html",
+    "title": "Grading",
+    "section": "",
+    "text": "Percentage of Final Grade\nIndividual Grade Contribution\n\n\n\n\n5\nIn-class participation\n\n\n25\nHomework\n\n\n20\nMidterm exam 1\n\n\n15\nMidterm exam 2\n\n\n35\nFinal Project\n\n\n\n\n\n\n\n\n\nImportant\n\n\n\nHomework is due on the due-date before 11:59 pm and is preferably uploaded to Canvas.\n\n\n\n\n\n\n\n\nNote\n\n\n\nOne late homework accepted during the entire course. Any further late submissions will count as 0.\n\n\n\n\n\n\n\n\nNote\n\n\n\nThe lowest homework score will be dropped."
+  },
+  {
+    "objectID": "content/grading.html#final-grade-breakdown",
+    "href": "content/grading.html#final-grade-breakdown",
+    "title": "Grading",
+    "section": "",
+    "text": "Percentage of Final Grade\nIndividual Grade Contribution\n\n\n\n\n5\nIn-class participation\n\n\n25\nHomework\n\n\n20\nMidterm exam 1\n\n\n15\nMidterm exam 2\n\n\n35\nFinal Project\n\n\n\n\n\n\n\n\n\nImportant\n\n\n\nHomework is due on the due-date before 11:59 pm and is preferably uploaded to Canvas.\n\n\n\n\n\n\n\n\nNote\n\n\n\nOne late homework accepted during the entire course. Any further late submissions will count as 0.\n\n\n\n\n\n\n\n\nNote\n\n\n\nThe lowest homework score will be dropped."
+  },
+  {
+    "objectID": "content/grading.html#final-percentage-score-to-letter-grade-conversion",
+    "href": "content/grading.html#final-percentage-score-to-letter-grade-conversion",
+    "title": "Grading",
+    "section": "Final Percentage Score to Letter Grade Conversion",
+    "text": "Final Percentage Score to Letter Grade Conversion\n\n\n\nFinal percentage Score\nLetter grade\n4.0 Scale\n\n\n\n\n93-100\nA\n4.0\n\n\n90-92\nA-\n3.7\n\n\n87-89\nB+\n3.3\n\n\n83-86\nB\n3.0\n\n\n80-82\nB-\n2.7\n\n\n77-79\nC+\n2.3\n\n\n73-76\nC\n2.0\n\n\n70-72\nC-\n1.7\n\n\n67-69\nD+\n1.3\n\n\n63-66\nD\n1.0\n\n\n60-62\nD-\n0.7\n\n\n&lt;60\nF\n0.0"
+  },
+  {
+    "objectID": "content/grading.html#midterm-exam-grading",
+    "href": "content/grading.html#midterm-exam-grading",
+    "title": "Grading",
+    "section": "Midterm Exam Grading",
+    "text": "Midterm Exam Grading\nThe midterm exams will be graded on a curve such that the average score is a B. However, I will not truncate the high scores which means that scores higher than 100% are possible. This way, everyone benefits from the grade curving process.\nFor the midterm letter grade, the same grade conversion applies as above, however scores greater or equal to 97 will receive the A+ grade (unlike for the final grade, where A is the highest grade at Northeastern University)."
+  },
+  {
+    "objectID": "content/grading.html#final-project-grading",
+    "href": "content/grading.html#final-project-grading",
+    "title": "Grading",
+    "section": "Final Project Grading",
+    "text": "Final Project Grading\nSee evaluation criteria on the finals project page."
+  },
+  {
+    "objectID": "content/quals.html",
+    "href": "content/quals.html",
+    "title": "PhD Qualification Exam - Materials Concentration",
+    "section": "",
+    "text": "MATL 7355 is a core course for the PhD qualification exam in MIE for the materials concentration."
+  },
+  {
+    "objectID": "content/quals.html#information-for-qualification-exam-2023",
+    "href": "content/quals.html#information-for-qualification-exam-2023",
+    "title": "PhD Qualification Exam - Materials Concentration",
+    "section": "Information for Qualification Exam 2023",
+    "text": "Information for Qualification Exam 2023\nInformation on what to expect for the qualification exam will be added closer to the date of the exams."
+  },
+  {
+    "objectID": "content/syllabus.html",
+    "href": "content/syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "The course syllabus below is a general outline of the course’s content but is subject to small changes depending on student’s interest and pace.\n\n\n\n\n\n\n\n\nWeek/Date\nTopic\nHomework Due\n\n\n\n\nWeek 1/Day 1\nIntroduction and history of thermodynamics\n\n\n\nWeek 1/Day 2\nBasic concepts and history of the first law\n\n\n\nWeek 2/Day 1\nFirst law of thermodynamics\nHW1\n\n\nWeek 2/Day 2\nSecond law of thermodynamics\n\n\n\nWeek 3/Day 1\nFundamental thermodynamic relations/equations\nHW2\n\n\nWeek 3/Day 2\nStatistical interpretation of the second law\n\n\n\nWeek 4/Day 1\nHeat Capacity and Thermochemistry\nHW3\n\n\nWeek 4/Day 2\nThe third law of thermodynamics\n\n\n\nWeek 5/Day 1\nReview session for mid-term exam 1\nHW4\n\n\nWeek 5/Day 2\nMid-term exam 1 (in-class)\n\n\n\nWeek 6/Day 1\nPhase equilibria I: One-component systems\n\n\n\nWeek 6/Day 2\nPhase equilibria I: One-component systems\n\n\n\nWeek 7/Day 1\nThermodynamics of gases\nHW5\n\n\nWeek 7/Day 2\nThermodynamics of gases\n\n\n\nWeek 8/Day 1\nThermodynamics of solutions\nHW6\n\n\nWeek 8/Day 2\nThermodynamics of solutions\n\n\n\nWeek 9/Day 1\nPhase equilibria II: Two-component systems\nHW7\n\n\nWeek 9/Day 2\nPhase equilibria II: Two-component systems\n\n\n\nWeek 10/Day 1\nPhase equilibria II: Two-component systems\nHW8\n\n\nWeek 10/Day 2\nReview session for mid-term exam 2\n\n\n\nWeek 11/Day 1\nMid-term exam 2 (in-class)\n\n\n\nWeek 11/Day 2\nStatistical Thermodynamics\n\n\n\nWeek 12/Day 1\nThanksgiving recess (no class)\n\n\n\nWeek 12/Day 2\nAdvanced Topic\n\n\n\nWeek 13/Day 1\nAdvanced Topic\n\n\n\nWeek 13/Day 2\nAdvanced Topic\n\n\n\nWeek 14/Day 1\nAdvanced Topic / Final project presentations (in-class)\n\n\n\nWeek 14/Day 2\nFinal project presentations (in-class)\n\n\n\n\nAdvanced Topics: Ternary Phase diagrams, predominance phase diagrams, electrochemistry, statistical thermodynamics & molecular dynamics, phase transformations, condensed - gaseous phase reactions,…\n\n\n\n\n\n\nNote\n\n\n\nHomework due dates and Thanksgiving recess are estimates and may vary year to year"
   }
 ]
