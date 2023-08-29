@@ -1,14 +1,45 @@
 ---
-title: PhD Qualification Exam - Materials Concentration
+title: Ph.D. Qualification Exam - Materials Concentration
 ---
 
 MATL 7355 is a core course for the PhD qualification exam in MIE for the materials concentration.
 
-## Information for Qualification Exam 2023
+## Information for Ph.D. Qualification Exam A, 2023
 
-Information on what to expect for the qualification exam will be added closer to the date of the exams.
+The *Ph.D. qualification exam A* of the materials science concentration will consist of two parts,
+MSE1 *"Thermodynamics of Materials"* and MSE2 *"Kinetics of Phase Transformations"*.
 
+::: {.callout-important title="Number of Questions"}
+Each part will consist of three questions (six questions in total) and the candidate will be required to answer **exactly two questions** of each.
+Each of the **four total questions answered** will be worth 25% of the overall exam grade.
+:::
 
+### Details on MSE1 *"Thermodynamics of Materials"*
 
+1. The following topics will **not** be asked:
 
+    - Open systems
+    - Systems with magnetic/electric fields
+    - Statistical Thermodynamics
+    - Einstein/Debye models of heat capacity
+    - Non-ideal gases and Van de Waals Gas calculations
+    - Subregular solutions
+    - Gibbs-Duhem integration
+    - Ternary phase diagrams
+
+2. **One question of MSE1 will be on binary phase diagrams.** So, make sure you understand them well.
+
+3. Questions in MSE1 may have sub-questions (a, b, c,...) and will be of similar style to the homework and mid-term exam
+(however, will be *unique* and not be an old question with different numbers).
+
+4. Formula sheet will **not** be provided in this exam. However, all three questions of MSE1 will state the key equations
+needed to solve the problem.
+
+::: {.callout-note}
+For information regarding allowed notes and other exam policies contact Prof. Jung.
+:::
+
+::: {.callout-note}
+For information on MSE2 *"Kinetics of Phase Transformations"* contact Prof. Upmanyu.
+:::
 

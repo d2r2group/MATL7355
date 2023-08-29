@@ -45,7 +45,7 @@ website:
       - href: content/other.qmd
         text: Other Information
       - href: content/quals.qmd
-        text: PhD Qualification Exam
+        text: Ph.D. Qualification Exam
 
 
 format:
