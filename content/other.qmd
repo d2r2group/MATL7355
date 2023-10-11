@@ -13,6 +13,12 @@ unless you are unable to. Here is the section from the student handbook:\
 > jury duty, bereavement, and military service. See the course catalog and other applicable policies for the full
 > attendance and excusal policy.
 
+## Academic Rights and Responsibilities
+
+For graduate studies, the student bill of academic rights and responsibilities can be
+found [here](https://catalog.northeastern.edu/graduate/academic-policies-procedures/students-bill-rights-responsibilities/).
+Please, briefly read through it if you haven't done so in the past.
+
 ## Academic Integrity
 
 A commitment to the principles of academic integrity is essential to the mission of Northeastern University.
@@ -26,9 +32,28 @@ Students are responsible for learning the conventions of documentation and ackno
 Northeastern University expects students to complete all examinations, tests, papers, creative projects, and
 assignments of any kind according to the highest ethical standards, as set forth either explicitly or implicitly in
 this Code or by the direction of instructors. Go to following link to access the full academic integrity policy:
-[www.northeastern.edu/osccr/academic-integrity-policy/](https://www.northeastern.edu/osccr/academic-integrity-policy/)
+[osccr.sites.northeastern.edu/academic-integrity-policy/](https://osccr.sites.northeastern.edu/academic-integrity-policy/).<br><br>
+Specific **examples of violating academic integrity** in this course are the following (list not exhaustive):
+
+- Copying another student's homework solutions (a reasonable amount of collaboration among students is permitted, however not direct copying)
+- Utilizing/acquiring/sharing homework/exam solutions from previous years
+- Cheating during exams
+- Not citing sources/figures appropriately when writing the project paper (also, see the next section of utilization of generative AI)
+
+## Utilization of Generative AI
+
+Generative AI tools such as ChatGPT or Bard have become widely adopted and I encourage students to (learn to) use it.
+However, similar to using Google to look for information, it is up to the student to decide which output is
+trustworthy/correct and which is false/hallucinated information. I therefore recommend always taking any output from
+generative AI with a healthy amount of scepticism and double-check other sources (and common reasoning) to verify and
+correct the final output. Rarely is it advisable to directly copy-paste information from generative AI and use it as
+a final answer.<br>
+For final project papers initial generative AI outputs to prompts have to be submitted alongside the final
+paper (to assess how affectively you took use of generative AI) - this enables me to grade your critical
+thinking skills and development of a subject. Details will be discussed during the semester.
 
 ## Diversity and Inclusion
+
 Northeastern University is committed to equal opportunity, affirmative action, diversity and social justice while
 building a climate of inclusion on and beyond campus. In the classroom, members of the University community work
 to cultivate an inclusive environment that denounces discrimination through innovation, collaboration and an awareness
@@ -39,7 +64,7 @@ national origins, religious affiliations, sexual orientations, socioeconomic bac
 ability – and other visible and nonvisible differences. All members of this class are expected to contribute to a
 respectful, welcoming and inclusive environment for every other member of the class. Your suggestions are encouraged
 and appreciated.\
-Please visit [www.northeastern.edu/oidi/](https://www.northeastern.edu/oidi/) for complete information on Diversity
+Please visit [diversity.northeastern.edu/](https://diversity.northeastern.edu/) for complete information on Diversity
 and Inclusion.
 
 ## Title IX
@@ -49,6 +74,6 @@ including discrimination based on gender-identity, in educational programs and a
 financial assistance. Northeastern’s Title IX Policy prohibits Prohibited Offenses, which are defined as sexual
 harassment, sexual assault, relationship or domestic violence, and stalking. The Title IX Policy applies to the
 entire community, including male, female, transgender students, faculty and staff. In case of an emergency,
-please call 911. Please visit www.northeastern.edu/titleix for a complete list of reporting options and
-resources both on- and off-campus.
+please call 911. Please visit [www.northeastern.edu/ouec/](https://www.northeastern.edu/ouec/) for a complete list of
+reporting options and resources both on- and off-campus.
 
