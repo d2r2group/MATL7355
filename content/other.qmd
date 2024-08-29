@@ -43,14 +43,22 @@ Specific **examples of violating academic integrity** in this course are the fol
 ## Utilization of Generative AI
 
 Generative AI tools such as ChatGPT or Bard have become widely adopted and I encourage students to (learn to) use it.
-However, similar to using Google to look for information, it is up to the student to decide which output is
-trustworthy/correct and which is false/hallucinated information. I therefore recommend always taking any output from
+However, similar to using Google to search for information, it is up to the student to decide which output is
+trustworthy/correct and which is false ("hallucinated" information). I therefore recommend always taking any output from
 generative AI with a healthy amount of scepticism and double-check other sources (and common reasoning) to verify and
-correct the final output. Rarely is it advisable to directly copy-paste information from generative AI and use it as
+tweak the final output. Rarely is it advisable to directly copy-paste information from generative AI and use it as
 a final answer.<br>
 For final project papers initial generative AI outputs to prompts have to be submitted alongside the final
-paper (to assess how affectively you took use of generative AI) - this enables me to grade your critical
-thinking skills and development of a subject. Details will be discussed during the semester.
+paper (to assess how effectively you took use of generative AI) - this enables me to grade your critical
+thinking skills and development of a subject. Details regarding this policy will be discussed during the semester.
+
+## Student Accommodation
+
+Northeastern University and the Disability Resource Center (DRC) are committed to providing disability services that
+enable students who qualify under Section 504 of the Rehabilitation Act and the Americans with Disabilities Act
+Amendments Act (ADAAA) to participate fully in the activities of the university. To receive accommodations through
+the DRC, students must provide appropriate documentation that demonstrates a current substantially limiting disability.
+For more information, visit [drc.sites.northeastern.edu](https://drc.sites.northeastern.edu/).
 
 ## Diversity and Inclusion
 
@@ -64,7 +72,7 @@ national origins, religious affiliations, sexual orientations, socioeconomic bac
 ability – and other visible and nonvisible differences. All members of this class are expected to contribute to a
 respectful, welcoming and inclusive environment for every other member of the class. Your suggestions are encouraged
 and appreciated.\
-Please visit [diversity.northeastern.edu](https://diversity.northeastern.edu) for complete information on Diversity
+Please visit [diversity.northeastern.edu](https://diversity.northeastern.edu) for complete information on Diversity, Equity,
 and Inclusion.
 
 ## Title IX
@@ -74,6 +82,6 @@ including discrimination based on gender-identity, in educational programs and a
 financial assistance. Northeastern’s Title IX Policy prohibits Prohibited Offenses, which are defined as sexual
 harassment, sexual assault, relationship or domestic violence, and stalking. The Title IX Policy applies to the
 entire community, including male, female, transgender students, faculty and staff. In case of an emergency,
-please call 911. Please visit [www.northeastern.edu/ouec/](https://www.northeastern.edu/ouec/) for a complete list of
-reporting options and resources both on- and off-campus.
+please call NUPD at 617 373 3333. Please visit [www.northeastern.edu/ouec/](https://www.northeastern.edu/ouec/)
+for a complete list of reporting options and resources both on- and off-campus.
 
