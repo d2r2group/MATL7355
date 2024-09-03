@@ -104,7 +104,7 @@
     "href": "content/other.html#student-accommodation",
     "title": "Other Information",
     "section": "Student Accommodation",
-    "text": "Student Accommodation\nNortheastern University and the Disability Resource Center (DRC) are committed to providing disability services that enable students who qualify under Section 504 of the Rehabilitation Act and the Americans with Disabilities Act Amendments Act (ADAAA) to participate fully in the activities of the university. To receive accommodations through the DRC, students must provide appropriate documentation that demonstrates a current substantially limiting disability. For more information, visit drc.sites.northeastern.edu.",
+    "text": "Student Accommodation\nNortheastern University and the Disability Access Services (DAS) are committed to providing disability services that enable students who qualify under Section 504 of the Rehabilitation Act and the Americans with Disabilities Act Amendments Act (ADAAA) to participate fully in the activities of the university. To receive accommodations through the DAS, students must provide appropriate documentation that demonstrates a current substantially limiting disability. For more information, visit disabilityaccessservices.sites.northeastern.edu/.",
     "crumbs": [
       "Other Information"
     ]
@@ -134,7 +134,7 @@
     "href": "content/info.html",
     "title": "Course Information",
     "section": "",
-    "text": "Date/Time: Tuesday and Thursday 6:00 pm – 7:40 pm\nLocation: TBD (typically in Ryder Hall)\nCanvas Website: northeastern.instructure.com/courses/158352\nCredits: 4 semester-hours",
+    "text": "Term: Fall 2024\nDate/Time: Tuesday and Thursday 6:00 pm – 7:40 pm\nLocation: Hastings Hall 111\nCanvas Website: northeastern.instructure.com/courses/194157\nCredits: 4 semester-hours",
     "crumbs": [
       "Course Information"
     ]
@@ -144,7 +144,7 @@
     "href": "content/info.html#basic-information",
     "title": "Course Information",
     "section": "",
-    "text": "Date/Time: Tuesday and Thursday 6:00 pm – 7:40 pm\nLocation: TBD (typically in Ryder Hall)\nCanvas Website: northeastern.instructure.com/courses/158352\nCredits: 4 semester-hours",
+    "text": "Term: Fall 2024\nDate/Time: Tuesday and Thursday 6:00 pm – 7:40 pm\nLocation: Hastings Hall 111\nCanvas Website: northeastern.instructure.com/courses/194157\nCredits: 4 semester-hours",
     "crumbs": [
       "Course Information"
     ]
@@ -201,7 +201,7 @@
     "href": "content/grading.html",
     "title": "Grading",
     "section": "",
-    "text": "Percentage of Final Grade\nIndividual Grade Contribution\n\n\n\n\n5\nIn-class participation\n\n\n25\nHomework\n\n\n20\nMidterm exam 1\n\n\n15\nMidterm exam 2\n\n\n35\nFinal Project\n\n\n\n\n\n\n\n\n\nImportant\n\n\n\nHomework is due on the due-date before 11:59 pm and is preferably uploaded to Canvas.\n\n\n\n\n\n\n\n\nNote\n\n\n\nOne late homework accepted during the entire course. Any further late submissions will count as 0.\n\n\n\n\n\n\n\n\nNote\n\n\n\nThe lowest homework score will be dropped.",
+    "text": "Percentage of Final Grade\nIndividual Grade Contribution\n\n\n\n\n5\nIn-class participation\n\n\n5\nQuizzes\n\n\n20\nHomework Assignments\n\n\n20\nMidterm exam 1\n\n\n20\nMidterm exam 2\n\n\n30\nFinal Project\n\n\n\n\n\n\n\n\n\nLate Homework Policy\n\n\n\nAll assignments will be accepted up to 2 calendar days late (cutoff 11:59 pm).\n\nAssignments turned in one day late will be penalized by 10%.\nAssignments turned in two days late will be penalized by 20%.\nAfter two calendar days, assignments will not be accepted, and you will receive a 0 on the assignment.\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nThe lowest homework score will be dropped.",
     "crumbs": [
       "Grading"
     ]
@@ -211,7 +211,7 @@
     "href": "content/grading.html#final-grade-breakdown",
     "title": "Grading",
     "section": "",
-    "text": "Percentage of Final Grade\nIndividual Grade Contribution\n\n\n\n\n5\nIn-class participation\n\n\n25\nHomework\n\n\n20\nMidterm exam 1\n\n\n15\nMidterm exam 2\n\n\n35\nFinal Project\n\n\n\n\n\n\n\n\n\nImportant\n\n\n\nHomework is due on the due-date before 11:59 pm and is preferably uploaded to Canvas.\n\n\n\n\n\n\n\n\nNote\n\n\n\nOne late homework accepted during the entire course. Any further late submissions will count as 0.\n\n\n\n\n\n\n\n\nNote\n\n\n\nThe lowest homework score will be dropped.",
+    "text": "Percentage of Final Grade\nIndividual Grade Contribution\n\n\n\n\n5\nIn-class participation\n\n\n5\nQuizzes\n\n\n20\nHomework Assignments\n\n\n20\nMidterm exam 1\n\n\n20\nMidterm exam 2\n\n\n30\nFinal Project\n\n\n\n\n\n\n\n\n\nLate Homework Policy\n\n\n\nAll assignments will be accepted up to 2 calendar days late (cutoff 11:59 pm).\n\nAssignments turned in one day late will be penalized by 10%.\nAssignments turned in two days late will be penalized by 20%.\nAfter two calendar days, assignments will not be accepted, and you will receive a 0 on the assignment.\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nThe lowest homework score will be dropped.",
     "crumbs": [
       "Grading"
     ]
@@ -251,7 +251,7 @@
     "href": "content/syllabus.html",
     "title": "Syllabus",
     "section": "",
-    "text": "The course syllabus below is a general outline of the course’s content but is subject to small changes depending on student’s interest and pace.\n\n\n\n\n\n\n\n\nWeek/Date\nTopic\nHomework Due\n\n\n\n\nWeek 1/Day 1\nIntroduction and history of thermodynamics\n\n\n\nWeek 2/Day 1\nBasic concepts and history of the first law\n\n\n\nWeek 2/Day 2\nFirst law of thermodynamics\n\n\n\nWeek 3/Day 1\nSecond law of thermodynamics\nHW1\n\n\nWeek 3/Day 2\nFundamental thermodynamic relations/equations\n\n\n\nWeek 4/Day 1\nStatistical interpretation of the second law\nHW2\n\n\nWeek 4/Day 2\nHeat Capacity and Thermochemistry\n\n\n\nWeek 5/Day 1\nThe third law of thermodynamics\nHW3\n\n\nWeek 5/Day 2\nPhase equilibria I: One-component systems\n\n\n\nWeek 6/Day 1\nPhase equilibria I: One-component systems\nHW4\n\n\nWeek 6/Day 2\nReview session for mid-term exam 1\n\n\n\nWeek 7/Day 1\nMid-term exam 1 (in-class)\n\n\n\nWeek 7/Day 2\nThermodynamics of pure substances\n\n\n\nWeek 8/Day 1\nThermodynamics of solutions\nHW5\n\n\nWeek 8/Day 2\nThermodynamics of solutions\n\n\n\nWeek 9/Day 1\nThermodynamics of solutions\n\n\n\nWeek 9/Day 2\nPhase equilibria II: Two-component systems\n\n\n\nWeek 10/Day 1\nPhase equilibria II: Two-component systems\nHW6\n\n\nWeek 10/Day 2\nPhase equilibria II: Two-component systems\n\n\n\nWeek 11/Day 1\nAdvanced Topic\nHW7\n\n\nWeek 11/Day 2\nAdvanced Topic\n\n\n\nWeek 12/Day 1\nReview session for mid-term exam 2\n\n\n\nWeek 12/Day 2\nThanksgiving recess (no class)\n\n\n\nWeek 13/Day 1\nMid-term exam 2 (in-class)\n\n\n\nWeek 13/Day 2\nAdvanced Topic\n\n\n\nWeek 14/Day 1\nAdvanced Topic\nHW8\n\n\nWeek 14/Day 2\nAdvanced Topic / Final project presentations (in-class)\n\n\n\nWeek 15/Day 1\nFinal project presentations (in-class)\n\n\n\n\nAdvanced Topics: Ternary Phase diagrams, predominance phase diagrams, electrochemistry, statistical thermodynamics & molecular dynamics, phase transformations, condensed - gaseous phase reactions,…\n\n\n\n\n\n\nNote\n\n\n\nHomework due dates and Thanksgiving recess are estimates and may vary year to year",
+    "text": "The course syllabus below is a general outline of the course’s content but is subject to small changes depending on student’s interest and pace.\n\n\n\nWeek/Date\nTopic\nHomework Due\n\n\n\n\nWeek 1/Day 1\nIntroduction and history of thermodynamics\n\n\n\nWeek 2/Day 1\nBasic concepts and history of the first law\n\n\n\nWeek 2/Day 2\nFirst law of thermodynamics\n\n\n\nWeek 3/Day 1\nSecond law of thermodynamics\nHW1\n\n\nWeek 3/Day 2\nFundamental thermodynamic relations/equations\n\n\n\nWeek 4/Day 1\nStatistical interpretation of the second law\nHW2\n\n\nWeek 4/Day 2\nHeat Capacity and Thermochemistry\n\n\n\nWeek 5/Day 1\nThe third law of thermodynamics\nHW3\n\n\nWeek 5/Day 2\nPhase equilibria I: One-component systems\n\n\n\nWeek 6/Day 1\nPhase equilibria I: One-component systems\nHW4\n\n\nWeek 6/Day 2\nReview session for mid-term exam 1\n\n\n\nWeek 7/Day 1\nMid-term exam 1 (in-class)\n\n\n\nWeek 7/Day 2\nThermodynamics of pure substances\n\n\n\nWeek 8/Day 1\nThermodynamics of solutions\nHW5\n\n\nWeek 8/Day 2\nThermodynamics of solutions\n\n\n\nWeek 9/Day 1\nThermodynamics of solutions\n\n\n\nWeek 9/Day 2\nPhase equilibria II: Two-component systems\n\n\n\nWeek 10/Day 1\nPhase equilibria II: Two-component systems\nHW6\n\n\nWeek 10/Day 2\nPhase equilibria II: Two-component systems\n\n\n\nWeek 11/Day 1\nAdvanced Topic\nHW7\n\n\nWeek 11/Day 2\nAdvanced Topic\n\n\n\nWeek 12/Day 1\nReview session for mid-term exam 2\n\n\n\nWeek 12/Day 2\nThanksgiving recess (no class)\n\n\n\nWeek 13/Day 1\nMid-term exam 2 (in-class)\n\n\n\nWeek 13/Day 2\nAdvanced Topic\n\n\n\nWeek 14/Day 1\nAdvanced Topic\nHW8\n\n\nWeek 14/Day 2\nFinal project presentations (in-class)\n\n\n\nWeek 15/Day 1\nFinal project presentations (in-class)\n\n\n\n\nAdvanced Topics: Ternary Phase diagrams, predominance phase diagrams, electrochemistry, statistical thermodynamics & molecular dynamics, phase transformations, condensed - gaseous phase reactions,…\n\n\n\n\n\n\nNote\n\n\n\nHomework due dates and Thanksgiving recess are estimates and may vary year to year",
     "crumbs": [
       "Syllabus"
     ]
