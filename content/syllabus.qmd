@@ -33,7 +33,7 @@ depending on student's interest and pace.
 | Week 13/Day 1 | **Mid-term exam 2** (in-class) |  |
 | Week 13/Day 2 | Advanced Topic |  |
 | Week 14/Day 1 | Advanced Topic | HW8 |
-| Week 14/Day 2 | Advanced Topic / **Final project presentations** (in-class) |  |
+| Week 14/Day 2 | **Final project presentations** (in-class) |  |
 | Week 15/Day 1 | **Final project presentations** (in-class) |  |
 
 **Advanced Topics**: Ternary Phase diagrams, predominance phase diagrams, electrochemistry,

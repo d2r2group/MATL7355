@@ -7,17 +7,19 @@ title: Grading
 | Percentage of Final Grade |  Individual Grade Contribution |
 | :----- | :----- |
 | 5  |    In-class participation |
-| 25  |   Homework |
+| 5  |    Quizzes |
+| 20  |   Homework Assignments |
 | 20  | Midterm exam 1 |
-| 15 | Midterm exam 2 |
-| 35 | Final Project |
+| 20 | Midterm exam 2 |
+| 30 | Final Project |
 
-::: {.callout-important}
-Homework is due on the due-date before 11:59 pm and is preferably uploaded to Canvas.
-:::
+::: {.callout-important title="Late Homework Policy"}
+All assignments will be accepted up to 2 calendar days late (cutoff 11:59 pm).
 
-::: {.callout-note}
-**One** late homework accepted during the entire course. Any further late submissions will count as 0.
+- Assignments turned in one day late will be penalized by 10%.
+- Assignments turned in two days late will be penalized by 20%.
+- After two calendar days, assignments will not be accepted, and you will receive a 0 on the assignment.
+
 :::
 
 ::: {.callout-note}

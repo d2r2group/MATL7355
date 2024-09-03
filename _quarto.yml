@@ -24,8 +24,8 @@ website:
     align: center
     tools: 
       - icon: globe
-        href: https://pschindler.net
-        text: "pschindler.net"
+        href: https://www.d2r2group.com
+        text: "d2r2group.com"
       - icon: github
         href: https://github.com/d2r2group/MATL7355
         text: "GitHub Repository"
