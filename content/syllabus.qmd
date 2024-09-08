@@ -26,13 +26,13 @@ depending on student's interest and pace.
 | Week 9/Day 2  | Phase equilibria II: Two-component systems |  |
 | Week 10/Day 1 | Phase equilibria II: Two-component systems | HW6 |
 | Week 10/Day 2 | Phase equilibria II: Two-component systems |  |
-| Week 11/Day 1 | Advanced Topic | HW7 |
-| Week 11/Day 2 | Advanced Topic |  |
-| Week 12/Day 1 | Review session for mid-term exam 2 |  |
-| Week 12/Day 2 | Thanksgiving recess (no class) |  |
-| Week 13/Day 1 | **Mid-term exam 2** (in-class) |  |
-| Week 13/Day 2 | Advanced Topic |  |
-| Week 14/Day 1 | Advanced Topic | HW8 |
+| Week 11/Day 1 | *Advanced Topic* | HW7 |
+| Week 11/Day 2 | Review session for mid-term exam 2 |  |
+| Week 12/Day 1 | **Mid-term exam 2** (in-class) |  |
+| Week 12/Day 2 | *Advanced Topic* |  |
+| Week 13/Day 1 | *Advanced Topic* |  |
+| Week 13/Day 2 | Thanksgiving recess (no class) |  |
+| Week 14/Day 1 | **Final project presentations** (in-class) | HW8 |
 | Week 14/Day 2 | **Final project presentations** (in-class) |  |
 | Week 15/Day 1 | **Final project presentations** (in-class) |  |
 
