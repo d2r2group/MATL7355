@@ -35,7 +35,8 @@ this Code or by the direction of instructors. Go to following link to access the
 [osccr.sites.northeastern.edu/academic-integrity-policy/](https://osccr.sites.northeastern.edu/academic-integrity-policy/).<br><br>
 Specific **examples of violating academic integrity** in this course are the following (list not exhaustive):
 
-- Copying another student's homework solutions (a reasonable amount of collaboration among students is permitted, however not direct copying)
+- Copying another student's homework solutions (a reasonable amount of collaboration among students is permitted,
+however not direct copying) or from online solutions
 - Utilizing/acquiring/sharing homework/exam solutions from previous years
 - Cheating during exams
 - Not citing sources/figures appropriately when writing the project paper (also, see the next section of utilization of generative AI)

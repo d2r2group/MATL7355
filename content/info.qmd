@@ -18,7 +18,7 @@ title: Course Information
 **Name**: Asst. Prof. Peter Schindler (you can call me *Prof. Peter*, *Professor*, or *Dr. Peter*)\
 **Email**: p.schindler (at) northeastern.edu\
 **Office Location**: 275 SN\
-**Office Hours**: Once a week (Day is decided during the first lecture).\
+**Office Hours**: Tuesdays, 4:30 pm.\
 :::
 
 ::: {.column width="10%"}
