@@ -2,19 +2,49 @@
 title: Ph.D. Qualification Exam - Materials Concentration
 ---
 
-MATL 7355 is a core course for the PhD qualification exam in MIE for the materials concentration.
+MATL 7355 is a core course for the Ph.D. qualification exam in MIE for the materials concentration.
 
-## Information for Ph.D. Qualification Exam A, 2023
+## Information for MSE Part I, *"Thermodynamics of Materials"*
 
-The *Ph.D. qualification exam A* of the materials science concentration will consist of two parts,
-MSE1 *"Thermodynamics of Materials"* and MSE2 *"Kinetics of Phase Transformations"*.
+The general topics covered for this exam align with the [syllabus](syllabus.html) of this course and are summarized in the list below.
+
+- Three laws of thermodynamics
+- State and path functions (exact and inexact differentials)
+- Entropy and Clausius inequalities
+- Thermodynamic potentials and Maxwell relations
+- Thermochemistry calculations and Hess’s law
+- Systems and processes (e.g., isothermal, isobaric…)
+- Phase equilibria and stability
+- Ideal and non-ideal gases
+- Behavior of Solutions (Henry and Raoult’s laws, Hume-Rothery rules)
+- Phase diagrams (single-component and binary systems)
+- Statistical thermodynamics (entropy, heat capacity, micro/macrostates, partition function)
+
+However, each year specific topics may be excluded from the exams (see next section below).
 
 ::: {.callout-important title="Number of Questions"}
-Each part will consist of three questions (six questions in total) and the candidate will be required to answer **exactly two questions** of each.
-Each of the **four total questions answered** will be worth 25% of the overall exam grade.
+MSE Part I will contain *three questions*. Students are asked to solve all three.
+
+The problem in which the lowest score will contribute 20% to the final grade while the other two problems will contribute 40% each.
 :::
 
-### Details on MSE1 *"Thermodynamics of Materials"*
+::: {.callout-important title="Notes Policy"}
+For MSE Part I, one letter page (8.5" x 11") of notes (both sides) is allowed. No other resources/notes will be allowed (except for a calculator).
+:::
+
+::: {.callout-note}
+Questions in MSE Part I may have sub-questions (a, b, c,...) and will be of similar style to the homework and mid-term exam
+(however, will be *unique* and not be an old question with different numbers).
+:::
+
+::: {.callout-note}
+Formula sheet will **not** be provided in this exam. However, all questions of MSE Part I will state the key equations and constants
+needed to solve the problem.
+:::
+
+### Additional Details for the 2025 Exam
+
+The points below only apply to the exam held in 2025 and may slightly change in future years.
 
 1. The following topics will **not** be asked:
 
@@ -27,19 +57,10 @@ Each of the **four total questions answered** will be worth 25% of the overall e
     - Gibbs-Duhem integration
     - Ternary phase diagrams
 
-2. **One question of MSE1 will be on binary phase diagrams.** So, make sure you understand them well.
+2. **One question of MSE Part I will be on binary phase diagrams.** So, make sure you understand them well.
 
-3. Questions in MSE1 may have sub-questions (a, b, c,...) and will be of similar style to the homework and mid-term exam
-(however, will be *unique* and not be an old question with different numbers).
-
-4. Formula sheet will **not** be provided in this exam. However, all three questions of MSE1 will state the key equations
-needed to solve the problem.
 
 ::: {.callout-note}
-For information regarding allowed notes and other exam policies contact Prof. Jung.
-:::
-
-::: {.callout-note}
-For information on MSE2 *"Kinetics of Phase Transformations"* contact Prof. Upmanyu.
+For information on MSE Part II, *"Kinetics of Phase Transformations"*, please contact Prof. Upmanyu.
 :::
 
