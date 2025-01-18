@@ -25,11 +25,11 @@ However, each year specific topics may be excluded from the exams (see next sect
 ::: {.callout-important title="Number of Questions"}
 MSE Part I will contain *three questions*. Students are asked to solve all three.
 
-The problem in which the lowest score will contribute 20% to the final grade while the other two problems will contribute 40% each.
+The problem with the lowest score will contribute 20% to the final grade while the other two problems will contribute 40% each.
 :::
 
 ::: {.callout-important title="Notes Policy"}
-For MSE Part I, one letter page (8.5" x 11") of notes (both sides) is allowed. No other resources/notes will be allowed (except for a calculator).
+One letter page (8.5" x 11") of notes (both sides) may be used during MSE Part I. No other resources/notes will be allowed (except for a calculator).
 :::
 
 ::: {.callout-note}
@@ -38,7 +38,7 @@ Questions in MSE Part I may have sub-questions (a, b, c,...) and will be of simi
 :::
 
 ::: {.callout-note}
-Formula sheet will **not** be provided in this exam. However, all questions of MSE Part I will state the key equations and constants
+A printed formula sheet will **not** be provided in this exam. However, all questions of MSE Part I will state the key equations and constants
 needed to solve the problem.
 :::
 
