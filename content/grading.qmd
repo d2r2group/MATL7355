@@ -8,9 +8,9 @@ title: Grading
 | :----- | :----- |
 | 5  |    In-class participation |
 | 5  |    Quizzes |
-| 20  |   Homework Assignments |
-| 20  | Midterm exam 1 |
-| 20 | Midterm exam 2 |
+| 10  |   Homework Assignments |
+| 25  | Midterm exam 1 |
+| 25 | Midterm exam 2 |
 | 30 | Final Project |
 
 ::: {.callout-important title="Late Homework Policy"}
@@ -51,7 +51,8 @@ The midterm exams will be graded on a curve such that the average score is a B. 
 which means that scores higher than 100% are possible. This way, *everyone benefits* from the grade curving process.
 
 For the midterm letter grade, the same grade conversion applies as above, however scores greater or equal to 97 will receive
-the **A+** grade (unlike for the final grade, where **A** is the highest grade at Northeastern University).
+the **A+** grade (unlike for the final grade, where **A** is the highest grade at Northeastern University) and
+67-69, 63-66, and 60-62 will receive **D+**, **D**, and **D-**, respectively (unlike for the final grade, where all these would be an **F**).
 
 ## Final Project Grading
 
