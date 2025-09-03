@@ -1,72 +1,99 @@
 [
   {
-    "objectID": "content/other.html#attendance",
-    "href": "content/other.html#attendance",
-    "title": "Other Information",
-    "section": "Attendance",
-    "text": "Attendance\nAttendance is an important element for success in class. It is required, unless you are unable to make it due to illness or other urgent or emergent reasons. Contact me via email before the class time for allowed absence, unless you are unable to. Here is the section from the student handbook:\n\n\nStudents will not be penalized for excused absences, with the understanding that students may need to make up for the academic commitment from which they were excused. Reasons for an excused absence include religious, medical issues, jury duty, bereavement, and military service. See the course catalog and other applicable policies for the full attendance and excusal policy.",
+    "objectID": "index.html#course-summary",
+    "href": "index.html#course-summary",
+    "title": "MATL 7355 – Thermodynamics of Materials",
+    "section": "Course Summary",
+    "text": "Course Summary\nMATL7355 – Thermodynamics of Materials is a 4 semester-hour graduate course. It covers the fundamentals of thermodynamics (the three laws, state functions, closed and open systems, behaviors of solutions, phase equilibria and stability, relations to phase diagrams, and other selected special topics) with the objective of providing students with a thermodynamics background suitable for understanding transformations and microstructural changes in materials that occur in materials processing and manufacturing. Emphasis is placed on metals and alloys in their condensed states although gaseous phases are included where relevant. This course is a prerequisite for MATL7360 – Kinetics of Phase Transformations.\n\n\n\n\n\n\nDisclaimer\n\n\n\nWhile I try to keep this website as up-to-date as possible, certain details regarding syllabus, content and grading may change from term to term."
+  },
+  {
+    "objectID": "content/grading.html#final-grade-breakdown",
+    "href": "content/grading.html#final-grade-breakdown",
+    "title": "Grading",
+    "section": "Final Grade Breakdown",
+    "text": "Final Grade Breakdown\n\n\n\nPercentage of Final Grade\nIndividual Grade Contribution\n\n\n\n\n5\nIn-class participation\n\n\n5\nQuizzes\n\n\n10\nHomework Assignments\n\n\n25\nMidterm exam 1\n\n\n25\nMidterm exam 2\n\n\n30\nFinal Project\n\n\n\n\n\n\n\n\n\nLate Homework Policy\n\n\n\nAll assignments will be accepted up to 2 calendar days late (cutoff 11:59 pm).\n\nAssignments turned in one day late will be penalized by 10%.\nAssignments turned in two days late will be penalized by 20%.\nAfter two calendar days, assignments will not be accepted, and you will receive a 0 on the assignment.\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nThe lowest homework score will be dropped.",
     "crumbs": [
-      "Other Information"
+      "Grading"
     ]
   },
   {
-    "objectID": "content/other.html#academic-rights-and-responsibilities",
-    "href": "content/other.html#academic-rights-and-responsibilities",
-    "title": "Other Information",
-    "section": "Academic Rights and Responsibilities",
-    "text": "Academic Rights and Responsibilities\nFor graduate studies, the student bill of academic rights and responsibilities can be found here. Please, briefly read through it if you haven’t done so in the past.",
+    "objectID": "content/grading.html#final-percentage-score-to-letter-grade-conversion",
+    "href": "content/grading.html#final-percentage-score-to-letter-grade-conversion",
+    "title": "Grading",
+    "section": "Final Percentage Score to Letter Grade Conversion",
+    "text": "Final Percentage Score to Letter Grade Conversion\n\n\n\nFinal percentage Score\nLetter grade\n4.0 Scale\n\n\n\n\n93-100\nA\n4.0\n\n\n90-92\nA-\n3.7\n\n\n87-89\nB+\n3.3\n\n\n83-86\nB\n3.0\n\n\n80-82\nB-\n2.7\n\n\n77-79\nC+\n2.3\n\n\n73-76\nC\n2.0\n\n\n70-72\nC-\n1.7\n\n\n67-69\nD+\n1.3\n\n\n63-66\nD\n1.0\n\n\n60-62\nD-\n0.7\n\n\n&lt;60\nF\n0.0",
     "crumbs": [
-      "Other Information"
+      "Grading"
     ]
   },
   {
-    "objectID": "content/other.html#academic-integrity",
-    "href": "content/other.html#academic-integrity",
-    "title": "Other Information",
-    "section": "Academic Integrity",
-    "text": "Academic Integrity\nA commitment to the principles of academic integrity is essential to the mission of Northeastern University. The promotion of independent and original scholarship ensures that students derive the most from their educational experience and their pursuit of knowledge. Academic dishonesty violates the most fundamental values of an intellectual community and undermines the achievements of the entire University.\nAs members of the academic community, students must become familiar with their rights and responsibilities. In each course, they are responsible for knowing the requirements and restrictions regarding research and writing, examinations of whatever kind, collaborative work, the use of study aids, the appropriateness of assistance, and other issues. Students are responsible for learning the conventions of documentation and acknowledgment of sources in their fields. Northeastern University expects students to complete all examinations, tests, papers, creative projects, and assignments of any kind according to the highest ethical standards, as set forth either explicitly or implicitly in this Code or by the direction of instructors. Go to following link to access the full academic integrity policy: osccr.sites.northeastern.edu/academic-integrity-policy/. Specific examples of violating academic integrity in this course are the following (list not exhaustive):\n\nCopying another student’s homework solutions (a reasonable amount of collaboration among students is permitted, however not direct copying) or from online solutions\nUtilizing/acquiring/sharing homework/exam solutions from previous years\nCheating during exams\nNot citing sources/figures appropriately when writing the project paper (also, see the next section of utilization of generative AI)",
+    "objectID": "content/grading.html#midterm-exam-grading",
+    "href": "content/grading.html#midterm-exam-grading",
+    "title": "Grading",
+    "section": "Midterm Exam Grading",
+    "text": "Midterm Exam Grading\nThe midterm exams will be graded on a curve such that the average score is a B. However, I will not truncate the high scores which means that scores higher than 100% are possible. This way, everyone benefits from the grade curving process.\nFor the midterm letter grade, the same grade conversion applies as above, however scores greater or equal to 97 will receive the A+ grade (unlike for the final grade, where A is the highest grade at Northeastern University) and 67-69, 63-66, and 60-62 will receive D+, D, and D-, respectively (unlike for the final grade, where all these would be an F).",
     "crumbs": [
-      "Other Information"
+      "Grading"
     ]
   },
   {
-    "objectID": "content/other.html#utilization-of-generative-ai",
-    "href": "content/other.html#utilization-of-generative-ai",
-    "title": "Other Information",
-    "section": "Utilization of Generative AI",
-    "text": "Utilization of Generative AI\nGenerative AI tools such as ChatGPT or Bard have become widely adopted and I encourage students to (learn to) use it. However, similar to using Google to search for information, it is up to the student to decide which output is trustworthy/correct and which is false (“hallucinated” information). I therefore recommend always taking any output from generative AI with a healthy amount of scepticism and double-check other sources (and common reasoning) to verify and tweak the final output. Rarely is it advisable to directly copy-paste information from generative AI and use it as a final answer. For final project papers initial generative AI outputs to prompts have to be submitted alongside the final paper (to assess how effectively you took use of generative AI) - this enables me to grade your critical thinking skills and development of a subject. Details regarding this policy will be discussed during the semester.",
+    "objectID": "content/grading.html#final-project-grading",
+    "href": "content/grading.html#final-project-grading",
+    "title": "Grading",
+    "section": "Final Project Grading",
+    "text": "Final Project Grading\nSee evaluation criteria on the finals project page.",
     "crumbs": [
-      "Other Information"
+      "Grading"
     ]
   },
   {
-    "objectID": "content/other.html#student-accommodation",
-    "href": "content/other.html#student-accommodation",
-    "title": "Other Information",
-    "section": "Student Accommodation",
-    "text": "Student Accommodation\nNortheastern University and the Disability Access Services (DAS) are committed to providing disability services that enable students who qualify under Section 504 of the Rehabilitation Act and the Americans with Disabilities Act Amendments Act (ADAAA) to participate fully in the activities of the university. To receive accommodations through the DAS, students must provide appropriate documentation that demonstrates a current substantially limiting disability. For more information, visit disabilityaccessservices.sites.northeastern.edu/.",
+    "objectID": "content/syllabus.html",
+    "href": "content/syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "The course syllabus below is a general outline of the course’s content but is subject to small changes depending on student’s interest and pace.\n\n\n\n\n\n\n\n\nWeek/Date\nTopic\nHomework Due\n\n\n\n\nWeek 1/Day 1\nIntroduction and history of thermodynamics\n\n\n\nWeek 2/Day 1\nBasic concepts and history of the first law\n\n\n\nWeek 2/Day 2\nFirst law of thermodynamics\n\n\n\nWeek 3/Day 1\nSecond law of thermodynamics\nHW1\n\n\nWeek 3/Day 2\nFundamental thermodynamic relations/equations\n\n\n\nWeek 4/Day 1\nStatistical interpretation of the second law\nHW2\n\n\nWeek 4/Day 2\nHeat Capacity and Thermochemistry\n\n\n\nWeek 5/Day 1\nThe third law of thermodynamics\nHW3\n\n\nWeek 5/Day 2\nPhase equilibria I: One-component systems\n\n\n\nWeek 6/Day 1\nPhase equilibria I: One-component systems\nHW4\n\n\nWeek 6/Day 2\nReview session for mid-term exam 1\n\n\n\nWeek 7/Day 1\nMid-term exam 1 (in-class)\n\n\n\nWeek 7/Day 2\nThermodynamics of pure substances\n\n\n\nWeek 8/Day 1\nThermodynamics of solutions\nHW5\n\n\nWeek 8/Day 2\nThermodynamics of solutions\n\n\n\nWeek 9/Day 1\nThermodynamics of solutions\n\n\n\nWeek 9/Day 2\nPhase equilibria II: Two-component systems\n\n\n\nWeek 10/Day 1\nPhase equilibria II: Two-component systems\nHW6\n\n\nWeek 10/Day 2\nPhase equilibria II: Two-component systems\n\n\n\nWeek 11/Day 1\nVeteran’s Day (no class)\nHW7\n\n\nWeek 11/Day 2\nReview session for mid-term exam 2\n\n\n\nWeek 12/Day 1\nMid-term exam 2 (in-class)\n\n\n\nWeek 12/Day 2\nAdvanced Topic\n\n\n\nWeek 13/Day 1\nAdvanced Topic\n\n\n\nWeek 13/Day 2\nThanksgiving recess (no class)md\n\n\n\nWeek 14/Day 1\nFinal project presentations (in-class)\nHW8\n\n\nWeek 14/Day 2\nFinal project presentations (in-class)\n\n\n\nWeek 15/Day 1\nFinal project presentations (in-class)\n\n\n\n\nAdvanced Topics: Ternary Phase diagrams, predominance phase diagrams, electrochemistry, statistical thermodynamics & molecular dynamics, phase transformations, condensed - gaseous phase reactions,…\n\n\n\n\n\n\nNote\n\n\n\nHomework due dates and Thanksgiving recess are estimates and may vary year to year",
     "crumbs": [
-      "Other Information"
+      "Syllabus"
     ]
   },
   {
-    "objectID": "content/other.html#diversity-and-inclusion",
-    "href": "content/other.html#diversity-and-inclusion",
-    "title": "Other Information",
-    "section": "Diversity and Inclusion",
-    "text": "Diversity and Inclusion\nNortheastern University is committed to equal opportunity, affirmative action, diversity and social justice while building a climate of inclusion on and beyond campus. In the classroom, members of the University community work to cultivate an inclusive environment that denounces discrimination through innovation, collaboration and an awareness of global perspectives on social justice. It is my intention that students from all backgrounds and perspectives will be well served by this course, and that the diversity that students bring to this class will be viewed as an asset. I welcome individuals of all ages, backgrounds, beliefs, ethnicities, genders, gender identities, gender expressions, national origins, religious affiliations, sexual orientations, socioeconomic background, family education level, ability – and other visible and nonvisible differences. All members of this class are expected to contribute to a respectful, welcoming and inclusive environment for every other member of the class. Your suggestions are encouraged and appreciated.\nPlease visit diversity.northeastern.edu for complete information on Diversity, Equity, and Inclusion.",
+    "objectID": "content/final_project.html#topics",
+    "href": "content/final_project.html#topics",
+    "title": "Final Projects",
+    "section": "Topics",
+    "text": "Topics\nThe topic selection takes place on a Google Sheet (link will be provided later) in which you can select from a list of topics or come up with your own topic.\nIdeally, there will be 1 topic per student but certain topics are very broad and can be done in a team of 2 (with a clearly separated focus).",
     "crumbs": [
-      "Other Information"
+      "Final Projects"
     ]
   },
   {
-    "objectID": "content/other.html#title-ix",
-    "href": "content/other.html#title-ix",
-    "title": "Other Information",
-    "section": "Title IX",
-    "text": "Title IX\nTitle IX of the Education Amendments of 1972 protects individuals from sex or gender-based discrimination, including discrimination based on gender-identity, in educational programs and activities that receive federal financial assistance. Northeastern’s Title IX Policy prohibits Prohibited Offenses, which are defined as sexual harassment, sexual assault, relationship or domestic violence, and stalking. The Title IX Policy applies to the entire community, including male, female, transgender students, faculty and staff. In case of an emergency, please call NUPD at 617 373 3333. Please visit www.northeastern.edu/ouec/ for a complete list of reporting options and resources both on- and off-campus.",
+    "objectID": "content/final_project.html#deliverables",
+    "href": "content/final_project.html#deliverables",
+    "title": "Final Projects",
+    "section": "Deliverables",
+    "text": "Deliverables\nThe final project consists of 3 main deliverables:\n\nPaper (~3-5 pages)\n\nAbstract\nIntroduction\nIn-depth discussion of specific problem/material system/concept\nConclusion\nReferences\n\nOne homework-type problem with the solution\n20-25 mins presentation (~10-13 slides) + 5 mins questions\n\nFocus on explanation/overview\nSummarize the specific problem/material you selected\n\n\nWhenever relevant, use concepts we covered in class (e.g., entropy change, enthalpy, phase diagrams,…).\nThe homework-type problem will be submitted alongside the paper.\nPlease use the docx template that will be provided on Canvas.",
     "crumbs": [
-      "Other Information"
+      "Final Projects"
+    ]
+  },
+  {
+    "objectID": "content/final_project.html#timeline",
+    "href": "content/final_project.html#timeline",
+    "title": "Final Projects",
+    "section": "Timeline",
+    "text": "Timeline\nThere are two checkpoints to ensure that the project is on track:\nCheckpoint 1 (early November): Topics should be chosen and finalized. Ideally, the topic should be narrowed down and a focus should be set on the broad topics. Please, send me an email with the topic title and the specific focus you envision.\nCheckpoint 2 (mid/late November): An abstract draft should be written and the main literature resources selected. The main problem or material system should be clearly identified. Please, send me an email with the abstract draft and a list of the main resources that you plan to use. Also, if not already done at checkpoint 1, clearly detail what your focus will be.\nPaper Due and Date of Presentations: The papers will be due roughly one week before finals week. Depending on the number of students there will be one or two days during finals week for presentations.",
+    "crumbs": [
+      "Final Projects"
+    ]
+  },
+  {
+    "objectID": "content/final_project.html#evaluation",
+    "href": "content/final_project.html#evaluation",
+    "title": "Final Projects",
+    "section": "Evaluation",
+    "text": "Evaluation\nI will be evaluating the project based on the following criteria and score them from 1 to 5 (1 - poor, 2 - below average, 3 - average, 4 - above average, 5 - excellent).\n\nPaper\n\nClarity of writing\nQuality of literature scope\nUse of figures, equations, and illustrations\nUse of thermodynamics concepts\nMain topic selection\nQuality of topic discussion\n\nHomework\n\nProblem selection\nQuality of how well the problem aids the learning of the chosen topic\n\nPresentation\n\nClarity of explanation\nQuality of slides\nTime management\nHandling of Q & A\n\n\nYou can choose between three grade-weighting schemes [Paper grade weight % / Homework grade weight % / Presentation grade weight %]:\nA: 40/20/40\nB: 50/20/30\nC: 30/20/50",
+    "crumbs": [
+      "Final Projects"
     ]
   },
   {
@@ -74,7 +101,7 @@
     "href": "content/info.html#basic-information",
     "title": "Course Information",
     "section": "Basic information",
-    "text": "Basic information\nTerm: Fall 2024\nDate/Time: Tuesday and Thursday 6:00 pm – 7:40 pm\nLocation: Hastings Hall 111\nCanvas Website: northeastern.instructure.com/courses/194157\nCredits: 4 semester-hours",
+    "text": "Basic information\nTerm: Fall 2025\nDate/Time: Tuesday and Thursday 6:00 pm – 7:40 pm\nLocation: Cahners Hall 008\nCanvas Website: northeastern.instructure.com/courses/194157\nCredits: 4 semester-hours",
     "crumbs": [
       "Course Information"
     ]
@@ -140,100 +167,73 @@
     ]
   },
   {
-    "objectID": "index.html#course-summary",
-    "href": "index.html#course-summary",
-    "title": "MATL 7355 – Thermodynamics of Materials",
-    "section": "Course Summary",
-    "text": "Course Summary\nMATL7355 – Thermodynamics of Materials is a 4 semester-hour graduate course. It covers the fundamentals of thermodynamics (the three laws, state functions, closed and open systems, behaviors of solutions, phase equilibria and stability, relations to phase diagrams, and other selected special topics) with the objective of providing students with a thermodynamics background suitable for understanding transformations and microstructural changes in materials that occur in materials processing and manufacturing. Emphasis is placed on metals and alloys in their condensed states although gaseous phases are included where relevant. This course is a prerequisite for MATL7360 – Kinetics of Phase Transformations.\n\n\n\n\n\n\nDisclaimer\n\n\n\nWhile I try to keep this website as up-to-date as possible, certain details regarding syllabus, content and grading may change from term to term."
-  },
-  {
-    "objectID": "content/syllabus.html",
-    "href": "content/syllabus.html",
-    "title": "Syllabus",
-    "section": "",
-    "text": "The course syllabus below is a general outline of the course’s content but is subject to small changes depending on student’s interest and pace.\n\n\n\nWeek/Date\nTopic\nHomework Due\n\n\n\n\nWeek 1/Day 1\nIntroduction and history of thermodynamics\n\n\n\nWeek 2/Day 1\nBasic concepts and history of the first law\n\n\n\nWeek 2/Day 2\nFirst law of thermodynamics\n\n\n\nWeek 3/Day 1\nSecond law of thermodynamics\nHW1\n\n\nWeek 3/Day 2\nFundamental thermodynamic relations/equations\n\n\n\nWeek 4/Day 1\nStatistical interpretation of the second law\nHW2\n\n\nWeek 4/Day 2\nHeat Capacity and Thermochemistry\n\n\n\nWeek 5/Day 1\nThe third law of thermodynamics\nHW3\n\n\nWeek 5/Day 2\nPhase equilibria I: One-component systems\n\n\n\nWeek 6/Day 1\nPhase equilibria I: One-component systems\nHW4\n\n\nWeek 6/Day 2\nReview session for mid-term exam 1\n\n\n\nWeek 7/Day 1\nMid-term exam 1 (in-class)\n\n\n\nWeek 7/Day 2\nThermodynamics of pure substances\n\n\n\nWeek 8/Day 1\nThermodynamics of solutions\nHW5\n\n\nWeek 8/Day 2\nThermodynamics of solutions\n\n\n\nWeek 9/Day 1\nThermodynamics of solutions\n\n\n\nWeek 9/Day 2\nPhase equilibria II: Two-component systems\n\n\n\nWeek 10/Day 1\nPhase equilibria II: Two-component systems\nHW6\n\n\nWeek 10/Day 2\nPhase equilibria II: Two-component systems\n\n\n\nWeek 11/Day 1\nAdvanced Topic\nHW7\n\n\nWeek 11/Day 2\nReview session for mid-term exam 2\n\n\n\nWeek 12/Day 1\nMid-term exam 2 (in-class)\n\n\n\nWeek 12/Day 2\nAdvanced Topic\n\n\n\nWeek 13/Day 1\nAdvanced Topic\n\n\n\nWeek 13/Day 2\nThanksgiving recess (no class)\n\n\n\nWeek 14/Day 1\nFinal project presentations (in-class)\nHW8\n\n\nWeek 14/Day 2\nFinal project presentations (in-class)\n\n\n\nWeek 15/Day 1\nFinal project presentations (in-class)\n\n\n\n\nAdvanced Topics: Ternary Phase diagrams, predominance phase diagrams, electrochemistry, statistical thermodynamics & molecular dynamics, phase transformations, condensed - gaseous phase reactions,…\n\n\n\n\n\n\nNote\n\n\n\nHomework due dates and Thanksgiving recess are estimates and may vary year to year",
+    "objectID": "content/other.html#attendance",
+    "href": "content/other.html#attendance",
+    "title": "Other Information",
+    "section": "Attendance",
+    "text": "Attendance\nAttendance is an important element for success in class. It is required, unless you are unable to make it due to illness or other urgent or emergent reasons. Contact me via email before the class time for allowed absence, unless you are unable to. Here is the section from the student handbook:\n\n\nStudents will not be penalized for excused absences, with the understanding that students may need to make up for the academic commitment from which they were excused. Reasons for an excused absence include religious, medical issues, jury duty, bereavement, and military service. See the course catalog and other applicable policies for the full attendance and excusal policy.",
     "crumbs": [
-      "Syllabus"
+      "Other Information"
     ]
   },
   {
-    "objectID": "content/final_project.html#topics",
-    "href": "content/final_project.html#topics",
-    "title": "Final Projects",
-    "section": "Topics",
-    "text": "Topics\nThe topic selection takes place on a Google Sheet (link will be provided later) in which you can select from a list of topics or come up with your own topic.\nIdeally, there will be 1 topic per student but certain topics are very broad and can be done in a team of 2 (with a clearly separated focus).",
+    "objectID": "content/other.html#academic-rights-and-responsibilities",
+    "href": "content/other.html#academic-rights-and-responsibilities",
+    "title": "Other Information",
+    "section": "Academic Rights and Responsibilities",
+    "text": "Academic Rights and Responsibilities\nFor graduate studies, the student bill of academic rights and responsibilities can be found here. Please, briefly read through it if you haven’t done so in the past.",
     "crumbs": [
-      "Final Projects"
+      "Other Information"
     ]
   },
   {
-    "objectID": "content/final_project.html#deliverables",
-    "href": "content/final_project.html#deliverables",
-    "title": "Final Projects",
-    "section": "Deliverables",
-    "text": "Deliverables\nThe final project consists of 3 main deliverables:\n\nPaper (~3-5 pages)\n\nAbstract\nIntroduction\nIn-depth discussion of specific problem/material system/concept\nConclusion\nReferences\n\nOne homework-type problem with the solution\n20-25 mins presentation (~10-13 slides) + 5 mins questions\n\nFocus on explanation/overview\nSummarize the specific problem/material you selected\n\n\nWhenever relevant, use concepts we covered in class (e.g., entropy change, enthalpy, phase diagrams,…).\nThe homework-type problem will be submitted alongside the paper.\nPlease use the docx template that will be provided on Canvas.",
+    "objectID": "content/other.html#academic-integrity",
+    "href": "content/other.html#academic-integrity",
+    "title": "Other Information",
+    "section": "Academic Integrity",
+    "text": "Academic Integrity\nA commitment to the principles of academic integrity is essential to the mission of Northeastern University. The promotion of independent and original scholarship ensures that students derive the most from their educational experience and their pursuit of knowledge. Academic dishonesty violates the most fundamental values of an intellectual community and undermines the achievements of the entire University.\nAs members of the academic community, students must become familiar with their rights and responsibilities. In each course, they are responsible for knowing the requirements and restrictions regarding research and writing, examinations of whatever kind, collaborative work, the use of study aids, the appropriateness of assistance, and other issues. Students are responsible for learning the conventions of documentation and acknowledgment of sources in their fields. Northeastern University expects students to complete all examinations, tests, papers, creative projects, and assignments of any kind according to the highest ethical standards, as set forth either explicitly or implicitly in this Code or by the direction of instructors. Go to following link to access the full academic integrity policy: osccr.sites.northeastern.edu/academic-integrity-policy/. Specific examples of violating academic integrity in this course are the following (list not exhaustive):\n\nCopying another student’s homework solutions (a reasonable amount of collaboration among students is permitted, however not direct copying) or from online solutions\nUtilizing/acquiring/sharing homework/exam solutions from previous years\nCheating during exams\nNot citing sources/figures appropriately when writing the project paper (also, see the next section of utilization of generative AI)",
     "crumbs": [
-      "Final Projects"
+      "Other Information"
     ]
   },
   {
-    "objectID": "content/final_project.html#timeline",
-    "href": "content/final_project.html#timeline",
-    "title": "Final Projects",
-    "section": "Timeline",
-    "text": "Timeline\nThere are two checkpoints to ensure that the project is on track:\nCheckpoint 1 (early November): Topics should be chosen and finalized. Ideally, the topic should be narrowed down and a focus should be set on the broad topics. Please, send me an email with the topic title and the specific focus you envision.\nCheckpoint 2 (mid/late November): An abstract draft should be written and the main literature resources selected. The main problem or material system should be clearly identified. Please, send me an email with the abstract draft and a list of the main resources that you plan to use. Also, if not already done at checkpoint 1, clearly detail what your focus will be.\nPaper Due and Date of Presentations: The papers will be due roughly one week before finals week. Depending on the number of students there will be one or two days during finals week for presentations.",
+    "objectID": "content/other.html#utilization-of-generative-ai",
+    "href": "content/other.html#utilization-of-generative-ai",
+    "title": "Other Information",
+    "section": "Utilization of Generative AI",
+    "text": "Utilization of Generative AI\nGenerative AI tools such as ChatGPT or Bard have become widely adopted and I encourage students to (learn to) use it. However, similar to using Google to search for information, it is up to the student to decide which output is trustworthy/correct and which is false (“hallucinated” information). I therefore recommend always taking any output from generative AI with a healthy amount of scepticism and double-check other sources (and common reasoning) to verify and tweak the final output. Rarely is it advisable to directly copy-paste information from generative AI and use it as a final answer. For final project papers initial generative AI outputs to prompts have to be submitted alongside the final paper (to assess how effectively you took use of generative AI) - this enables me to grade your critical thinking skills and development of a subject. Details regarding this policy will be discussed during the semester.",
     "crumbs": [
-      "Final Projects"
+      "Other Information"
     ]
   },
   {
-    "objectID": "content/final_project.html#evaluation",
-    "href": "content/final_project.html#evaluation",
-    "title": "Final Projects",
-    "section": "Evaluation",
-    "text": "Evaluation\nI will be evaluating the project based on the following criteria and score them from 1 to 5 (1 - poor, 2 - below average, 3 - average, 4 - above average, 5 - excellent).\n\nPaper\n\nClarity of writing\nQuality of literature scope\nUse of figures, equations, and illustrations\nUse of thermodynamics concepts\nMain topic selection\nQuality of topic discussion\n\nHomework\n\nProblem selection\nQuality of how well the problem aids the learning of the chosen topic\n\nPresentation\n\nClarity of explanation\nQuality of slides\nTime management\nHandling of Q & A\n\n\nYou can choose between three grade-weighting schemes [Paper grade weight % / Homework grade weight % / Presentation grade weight %]:\nA: 40/20/40\nB: 50/20/30\nC: 30/20/50",
+    "objectID": "content/other.html#student-accommodation",
+    "href": "content/other.html#student-accommodation",
+    "title": "Other Information",
+    "section": "Student Accommodation",
+    "text": "Student Accommodation\nNortheastern University and the Disability Access Services (DAS) are committed to providing disability services that enable students who qualify under Section 504 of the Rehabilitation Act and the Americans with Disabilities Act Amendments Act (ADAAA) to participate fully in the activities of the university. To receive accommodations through the DAS, students must provide appropriate documentation that demonstrates a current substantially limiting disability. For more information, visit disabilityaccessservices.northeastern.edu/.",
     "crumbs": [
-      "Final Projects"
+      "Other Information"
     ]
   },
   {
-    "objectID": "content/grading.html#final-grade-breakdown",
-    "href": "content/grading.html#final-grade-breakdown",
-    "title": "Grading",
-    "section": "Final Grade Breakdown",
-    "text": "Final Grade Breakdown\n\n\n\nPercentage of Final Grade\nIndividual Grade Contribution\n\n\n\n\n5\nIn-class participation\n\n\n5\nQuizzes\n\n\n20\nHomework Assignments\n\n\n20\nMidterm exam 1\n\n\n20\nMidterm exam 2\n\n\n30\nFinal Project\n\n\n\n\n\n\n\n\n\nLate Homework Policy\n\n\n\nAll assignments will be accepted up to 2 calendar days late (cutoff 11:59 pm).\n\nAssignments turned in one day late will be penalized by 10%.\nAssignments turned in two days late will be penalized by 20%.\nAfter two calendar days, assignments will not be accepted, and you will receive a 0 on the assignment.\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nThe lowest homework score will be dropped.",
+    "objectID": "content/other.html#diversity-and-inclusion",
+    "href": "content/other.html#diversity-and-inclusion",
+    "title": "Other Information",
+    "section": "Diversity and Inclusion",
+    "text": "Diversity and Inclusion\nNortheastern University is committed to equal opportunity, affirmative action, diversity and social justice while building a climate of inclusion on and beyond campus. In the classroom, members of the University community work to cultivate an inclusive environment that denounces discrimination through innovation, collaboration and an awareness of global perspectives on social justice. It is my intention that students from all backgrounds and perspectives will be well served by this course, and that the diversity that students bring to this class will be viewed as an asset. I welcome individuals of all ages, backgrounds, beliefs, ethnicities, genders, gender identities, gender expressions, national origins, religious affiliations, sexual orientations, socioeconomic background, family education level, ability – and other visible and nonvisible differences. All members of this class are expected to contribute to a respectful, welcoming and inclusive environment for every other member of the class. Your suggestions are encouraged and appreciated.\nPlease visit belonging.northeastern.edu for complete information on Diversity, Equity, and Inclusion.",
     "crumbs": [
-      "Grading"
+      "Other Information"
     ]
   },
   {
-    "objectID": "content/grading.html#final-percentage-score-to-letter-grade-conversion",
-    "href": "content/grading.html#final-percentage-score-to-letter-grade-conversion",
-    "title": "Grading",
-    "section": "Final Percentage Score to Letter Grade Conversion",
-    "text": "Final Percentage Score to Letter Grade Conversion\n\n\n\nFinal percentage Score\nLetter grade\n4.0 Scale\n\n\n\n\n93-100\nA\n4.0\n\n\n90-92\nA-\n3.7\n\n\n87-89\nB+\n3.3\n\n\n83-86\nB\n3.0\n\n\n80-82\nB-\n2.7\n\n\n77-79\nC+\n2.3\n\n\n73-76\nC\n2.0\n\n\n70-72\nC-\n1.7\n\n\n67-69\nD+\n1.3\n\n\n63-66\nD\n1.0\n\n\n60-62\nD-\n0.7\n\n\n&lt;60\nF\n0.0",
+    "objectID": "content/other.html#title-ix",
+    "href": "content/other.html#title-ix",
+    "title": "Other Information",
+    "section": "Title IX",
+    "text": "Title IX\nTitle IX of the Education Amendments of 1972 protects individuals from sex or gender-based discrimination, including discrimination based on gender-identity, in educational programs and activities that receive federal financial assistance. Northeastern’s Title IX Policy prohibits Prohibited Offenses, which are defined as sexual harassment, sexual assault, relationship or domestic violence, and stalking. The Title IX Policy applies to the entire community, including male, female, transgender students, faculty and staff. In case of an emergency, please call NUPD at 617 373 3333. Please visit ouec.northeastern.edu for a complete list of reporting options and resources both on- and off-campus.",
     "crumbs": [
-      "Grading"
-    ]
-  },
-  {
-    "objectID": "content/grading.html#midterm-exam-grading",
-    "href": "content/grading.html#midterm-exam-grading",
-    "title": "Grading",
-    "section": "Midterm Exam Grading",
-    "text": "Midterm Exam Grading\nThe midterm exams will be graded on a curve such that the average score is a B. However, I will not truncate the high scores which means that scores higher than 100% are possible. This way, everyone benefits from the grade curving process.\nFor the midterm letter grade, the same grade conversion applies as above, however scores greater or equal to 97 will receive the A+ grade (unlike for the final grade, where A is the highest grade at Northeastern University).",
-    "crumbs": [
-      "Grading"
-    ]
-  },
-  {
-    "objectID": "content/grading.html#final-project-grading",
-    "href": "content/grading.html#final-project-grading",
-    "title": "Grading",
-    "section": "Final Project Grading",
-    "text": "Final Project Grading\nSee evaluation criteria on the finals project page.",
-    "crumbs": [
-      "Grading"
+      "Other Information"
     ]
   }
 ]
