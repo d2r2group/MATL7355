@@ -22,10 +22,10 @@ The general topics covered for this exam align with the [syllabus](syllabus.html
 
 However, each year specific topics may be excluded from the exams (see next section below).
 
-::: {.callout-important title="Number of Questions"}
-MSE Part I will contain *three questions*. Students are asked to solve all three.
+::: {.callout-important title="Number of Questions and Duration"}
+MSE Part I will contain *three questions*. Students are asked to choose and solve exactly *two* of them.
 
-The problem with the lowest score will contribute 20% to the final grade while the other two problems will contribute 40% each.
+The duration of the exam is *two hours*.
 :::
 
 ::: {.callout-important title="Notes Policy"}
@@ -42,9 +42,9 @@ A printed formula sheet will **not** be provided in this exam. However, all ques
 needed to solve the problem.
 :::
 
-### Additional Details for the 2025 Exam
+### Additional Details for the 2026 Exam
 
-The points below only apply to the exam held in 2025 and may slightly change in future years.
+The points below only apply to the exam held in 2026 and may slightly change in future years.
 
 1. The following topics will **not** be asked:
 

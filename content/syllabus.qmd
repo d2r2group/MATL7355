@@ -31,7 +31,7 @@ depending on student's interest and pace.
 | Week 12/Day 1 | **Mid-term exam 2** (in-class) |  |
 | Week 12/Day 2 | *Advanced Topic* |  |
 | Week 13/Day 1 | *Advanced Topic* |  |
-| Week 13/Day 2 | <span style="color:gray">Thanksgiving recess (no class)</span>md |  |
+| Week 13/Day 2 | <span style="color:gray">Thanksgiving recess (no class)</span> |  |
 | Week 14/Day 1 | **Final project presentations** (in-class) | HW8 |
 | Week 14/Day 2 | **Final project presentations** (in-class) |  |
 | Week 15/Day 1 | **Final project presentations** (in-class) |  |
