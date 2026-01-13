@@ -37,7 +37,7 @@ website:
       - href: content/info.qmd
         text: Course Information
       - href: content/syllabus.qmd
-        text: Syllabus
+        text: Outline
       - href: content/grading.qmd
         text: Grading
       - href: content/final_project.qmd
