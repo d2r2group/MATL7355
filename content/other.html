@@ -2,18 +2,24 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.26">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2026-01-13">
+<meta name="dcterms.date" content="2026-09-09">
 
 <title>Other Information – MATL 7355 - Thermodynamics of Materials</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -35,19 +41,16 @@ ul.task-list li input[type="checkbox"] {
 <link href="../images/favicon.ico" rel="icon">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-b758ccaa5987ceb1b75504551e579abf.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-b85bc7c33db8c58e0ec93c3465666fed.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-772ff2bcbe09c72695251a9bf2ab753f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-232e4682cfd531faa731a02c7ded2837.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="../site_libs/bootstrap/bootstrap-772ff2bcbe09c72695251a9bf2ab753f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-f05d41d5072541e2400776e809cecb37.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-4200c13e256f42cc5e203c5f516c2120.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -88,7 +91,7 @@ gtag('config', 'G-87R3RGZC2K', { 'anonymize_ip': true});
 
 </head>
 
-<body class="nav-sidebar docked quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+<body class="nav-sidebar docked quarto-dark"><script id="quarto-html-before-body" type="application/javascript">
     const toggleBodyColorMode = (bsSheetEl) => {
       const mode = bsSheetEl.getAttribute("data-mode");
       const bodyEl = window.document.querySelector("body");
@@ -230,10 +233,8 @@ gtag('config', 'G-87R3RGZC2K', { 'anonymize_ip': true});
         changeGiscusTheme();
       }
     };
-    const authorPrefersDark = false;
+    const authorPrefersDark = true;
     const darkModeDefault = authorPrefersDark;
-      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
-      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
     let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
     // Dark / light mode switch
     window.quartoToggleColorScheme = () => {
@@ -336,13 +337,17 @@ gtag('config', 'G-87R3RGZC2K', { 'anonymize_ip': true});
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#attendance" id="toc-attendance" class="nav-link active" data-scroll-target="#attendance">Attendance</a></li>
+  <li><a href="#attendance-and-class-recordings" id="toc-attendance-and-class-recordings" class="nav-link active" data-scroll-target="#attendance-and-class-recordings">Attendance and Class Recordings</a>
+  <ul class="collapse">
+  <li><a href="#attendance-policy" id="toc-attendance-policy" class="nav-link" data-scroll-target="#attendance-policy">Attendance Policy</a></li>
+  <li><a href="#recording-of-classes" id="toc-recording-of-classes" class="nav-link" data-scroll-target="#recording-of-classes">Recording of Classes</a></li>
+  </ul></li>
   <li><a href="#academic-rights-and-responsibilities" id="toc-academic-rights-and-responsibilities" class="nav-link" data-scroll-target="#academic-rights-and-responsibilities">Academic Rights and Responsibilities</a></li>
   <li><a href="#academic-integrity" id="toc-academic-integrity" class="nav-link" data-scroll-target="#academic-integrity">Academic Integrity</a></li>
   <li><a href="#utilization-of-generative-ai" id="toc-utilization-of-generative-ai" class="nav-link" data-scroll-target="#utilization-of-generative-ai">Utilization of Generative AI</a></li>
   <li><a href="#student-accommodation" id="toc-student-accommodation" class="nav-link" data-scroll-target="#student-accommodation">Student Accommodation</a></li>
-  <li><a href="#diversity-and-inclusion" id="toc-diversity-and-inclusion" class="nav-link" data-scroll-target="#diversity-and-inclusion">Diversity and Inclusion</a></li>
-  <li><a href="#title-ix" id="toc-title-ix" class="nav-link" data-scroll-target="#title-ix">Title IX</a></li>
+  <li><a href="#outreach-engagement-belonging" id="toc-outreach-engagement-belonging" class="nav-link" data-scroll-target="#outreach-engagement-belonging">Outreach, Engagement, Belonging</a></li>
+  <li><a href="#policy-on-sexual-and-gender-based-harassment-and-title-ix" id="toc-policy-on-sexual-and-gender-based-harassment-and-title-ix" class="nav-link" data-scroll-target="#policy-on-sexual-and-gender-based-harassment-and-title-ix">Policy on Sexual and Gender-Based Harassment and Title IX</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/d2r2group/MATL7355/issues/new" class="toc-action"><i class="bi bi-github"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -356,13 +361,20 @@ gtag('config', 'G-87R3RGZC2K', { 'anonymize_ip': true});
 </header>
 
 
-<section id="attendance" class="level2">
-<h2 class="anchored" data-anchor-id="attendance">Attendance</h2>
-<p>Attendance is an important element for success in class. It is required, unless you are unable to make it due to illness or other urgent or emergent reasons. Contact me via email before the class time for allowed absence, unless you are unable to. Here is the section from the student handbook:<br>
+<section id="attendance-and-class-recordings" class="level2">
+<h2 class="anchored" data-anchor-id="attendance-and-class-recordings">Attendance and Class Recordings</h2>
+<section id="attendance-policy" class="level3">
+<h3 class="anchored" data-anchor-id="attendance-policy">Attendance Policy</h3>
+<p>This is an in-person course and attendance at every class meeting is required; it is an important element for success. If illness or another urgent reason keeps you away, email me before class time whenever you can. From the student handbook:<br>
 </p>
 <blockquote class="blockquote">
-<p>Students will not be penalized for excused absences, with the understanding that students may need to make up for the academic commitment from which they were excused. Reasons for an excused absence include religious, medical issues, jury duty, bereavement, and military service. See the course catalog and other applicable policies for the full attendance and excusal policy.</p>
+<p>Students will not be penalized for excused absences, with the understanding that students may need to make up for the academic commitment from which they were excused. Reasons for an excused absence include religious, medical issues, jury duty, bereavement, and military service. See the course catalog and other <a href="https://catalog.northeastern.edu/graduate/academic-policies-procedures/students-bill-rights-responsibilities/">applicable policies</a> for the full attendance and excusal policy.</p>
 </blockquote>
+</section>
+<section id="recording-of-classes" class="level3">
+<h3 class="anchored" data-anchor-id="recording-of-classes">Recording of Classes</h3>
+<p>Class sessions will not be recorded by me unless announced in advance. Students may not record lectures, discussions, or student presentations by audio, video, or screen capture without my prior written permission, except where recording is an accommodation approved through Disability Access Services. Any permitted recording is for your personal study only and may not be shared, posted, or redistributed.</p>
+</section>
 </section>
 <section id="academic-rights-and-responsibilities" class="level2">
 <h2 class="anchored" data-anchor-id="academic-rights-and-responsibilities">Academic Rights and Responsibilities</h2>
@@ -371,7 +383,7 @@ gtag('config', 'G-87R3RGZC2K', { 'anonymize_ip': true});
 <section id="academic-integrity" class="level2">
 <h2 class="anchored" data-anchor-id="academic-integrity">Academic Integrity</h2>
 <p>A commitment to the principles of academic integrity is essential to the mission of Northeastern University. The promotion of independent and original scholarship ensures that students derive the most from their educational experience and their pursuit of knowledge. Academic dishonesty violates the most fundamental values of an intellectual community and undermines the achievements of the entire University.<br>
-As members of the academic community, students must become familiar with their rights and responsibilities. In each course, they are responsible for knowing the requirements and restrictions regarding research and writing, examinations of whatever kind, collaborative work, the use of study aids, the appropriateness of assistance, and other issues. Students are responsible for learning the conventions of documentation and acknowledgment of sources in their fields. Northeastern University expects students to complete all examinations, tests, papers, creative projects, and assignments of any kind according to the highest ethical standards, as set forth either explicitly or implicitly in this Code or by the direction of instructors. Go to following link to access the full academic integrity policy: <a href="https://osccr.sites.northeastern.edu/academic-integrity-policy/">osccr.sites.northeastern.edu/academic-integrity-policy/</a>.<br><br> Specific <strong>examples of violating academic integrity</strong> in this course are the following (list not exhaustive):</p>
+As members of the academic community, students must become familiar with their rights and responsibilities. In each course, they are responsible for knowing the requirements and restrictions regarding research and writing, examinations of whatever kind, collaborative work, the use of study aids, the appropriateness of assistance, and other issues. Students are responsible for learning the conventions of documentation and acknowledgment of sources in their fields. Northeastern University expects students to complete all examinations, tests, papers, creative projects, and assignments of any kind according to the highest ethical standards, as set forth either explicitly or implicitly in this Code or by the direction of instructors. Go to following link to access the full academic integrity policy: <a href="https://catalog.northeastern.edu/handbook/policies-regulations/academic-integrity/">catalog.northeastern.edu/handbook/policies-regulations/academic-integrity</a>.<br><br> The following are disciplinary offenses, as described in more detail in that policy, and are actionable by the University: cheating (including unauthorized use of generative AI outside the guidelines provided in this syllabus), fabrication, plagiarism, unauthorized collaboration, participation in academically dishonest activities, and facilitating academic dishonesty. During examinations, you are to work alone and neither give nor receive help from any sources. To breach the university policy on academic integrity is grounds for receiving an F in the course, and possible suspension or expulsion from Northeastern University.<br><br> Specific <strong>examples of violating academic integrity</strong> in this course are the following (list not exhaustive):</p>
 <ul>
 <li>Copying another student’s homework solutions (a reasonable amount of collaboration among students is permitted, however not direct copying) or from online solutions</li>
 <li>Utilizing/acquiring/sharing homework/exam solutions from previous years</li>
@@ -381,20 +393,31 @@ As members of the academic community, students must become familiar with their r
 </section>
 <section id="utilization-of-generative-ai" class="level2">
 <h2 class="anchored" data-anchor-id="utilization-of-generative-ai">Utilization of Generative AI</h2>
-<p>Generative AI tools such as ChatGPT or Bard have become widely adopted and I encourage students to (learn to) use it. However, similar to using Google to search for information, it is up to the student to decide which output is trustworthy/correct and which is false (“hallucinated” information). I therefore recommend always taking any output from generative AI with a healthy amount of scepticism and double-check other sources (and common reasoning) to verify and tweak the final output. Rarely is it advisable to directly copy-paste information from generative AI and use it as a final answer.<br> For final project papers initial generative AI outputs to prompts have to be submitted alongside the final paper (to assess how effectively you took use of generative AI) - this enables me to grade your critical thinking skills and development of a subject. Details regarding this policy will be discussed during the semester.</p>
+<p>Generative AI tools such as ChatGPT, Claude, or Gemini have become widely adopted and I encourage students to (learn to) use them. This policy also covers coding assistants such as GitHub Copilot and Cursor, the generative features in Grammarly, and the AI summaries built into search engines and library databases.<br> You may use generative AI on any assignment in this course, at any stage of your work, unless stated otherwise. However, similar to using Google to search for information, it is up to the student to decide which output is trustworthy/correct and which is false (“hallucinated” information). I therefore recommend always taking any output from generative AI with a healthy amount of scepticism and double-check other sources (and common reasoning) to verify and tweak the final output. Rarely is it advisable to directly copy-paste information from generative AI and use it as a final answer.</p>
+<ul>
+<li><strong><em>Disclosure:</em></strong> include a brief note at the end of each submission naming the tool and version, what you used it for, and what you changed.</li>
+<li><strong><em>Verification is your responsibility:</em></strong> you remain fully responsible for everything you submit, including the accuracy of all results and the existence and content of every source you cite. Fabricated citations are treated as your error, not the tool’s.</li>
+<li><strong><em>Accommodations:</em></strong> AI used as approved assistive technology, or under an accommodation arranged through Disability Access Services, needs no disclosure beyond the standard note.</li>
+<li><strong><em>Individual assignments may narrow this policy;</em></strong> where they do, the assignment prompt governs.</li>
+<li><strong><em>Violations of this policy</em></strong> are handled under the University’s academic integrity policy linked above.</li>
+</ul>
+<p>For final project papers initial generative AI outputs to prompts have to be submitted alongside the final paper (to assess how effectively you took use of generative AI) - this enables me to grade your critical thinking skills and development of a subject. Details regarding this policy will be discussed during the semester.</p>
 </section>
 <section id="student-accommodation" class="level2">
 <h2 class="anchored" data-anchor-id="student-accommodation">Student Accommodation</h2>
 <p>Northeastern University and the Disability Access Services (DAS) are committed to providing disability services that enable students who qualify under Section 504 of the Rehabilitation Act and the Americans with Disabilities Act Amendments Act (ADAAA) to participate fully in the activities of the university. To receive accommodations through the DAS, students must provide appropriate documentation that demonstrates a current substantially limiting disability. For more information, visit <a href="https://disabilityaccessservices.northeastern.edu/">disabilityaccessservices.northeastern.edu/</a>.</p>
 </section>
-<section id="diversity-and-inclusion" class="level2">
-<h2 class="anchored" data-anchor-id="diversity-and-inclusion">Diversity and Inclusion</h2>
-<p>Northeastern University is committed to equal opportunity, affirmative action, diversity and social justice while building a climate of inclusion on and beyond campus. In the classroom, members of the University community work to cultivate an inclusive environment that denounces discrimination through innovation, collaboration and an awareness of global perspectives on social justice. It is my intention that students from all backgrounds and perspectives will be well served by this course, and that the diversity that students bring to this class will be viewed as an asset. I welcome individuals of all ages, backgrounds, beliefs, ethnicities, genders, gender identities, gender expressions, national origins, religious affiliations, sexual orientations, socioeconomic background, family education level, ability – and other visible and nonvisible differences. All members of this class are expected to contribute to a respectful, welcoming and inclusive environment for every other member of the class. Your suggestions are encouraged and appreciated.<br>
-Please visit <a href="https://belonging.northeastern.edu">belonging.northeastern.edu</a> for complete information on Diversity, Equity, and Inclusion.</p>
+<section id="outreach-engagement-belonging" class="level2">
+<h2 class="anchored" data-anchor-id="outreach-engagement-belonging">Outreach, Engagement, Belonging</h2>
+<p>Northeastern University is committed to fostering a community of belonging, which is essential to the advancement of Northeastern University’s mission of teaching and research. Our university is stronger as a result of the varied backgrounds, experiences, and perspectives that all members of our global community bring to the pursuit of knowledge. Embracing this pluralism is not the work of one office, department, or academic unit. It is a shared responsibility that spans disciplines and boundaries. By harnessing the power of our differences, we will continue to light the path to bold new ideas and life-changing discoveries.<br>
+It is my intention that students from all backgrounds and perspectives will be well served by this course, and that the diversity that students bring to this class will be viewed as an asset. I welcome individuals of all ages, backgrounds, beliefs, ethnicities, genders, gender identities, gender expressions, national origins, religious affiliations, sexual orientations, socioeconomic background, family education level, ability – and other visible and nonvisible differences. All members of this class are expected to contribute to a respectful, welcoming and belonging environment for every other member of the class. Your suggestions are encouraged and appreciated.<br>
+Please visit <a href="https://belonging.northeastern.edu">belonging.northeastern.edu</a> for more information.</p>
 </section>
-<section id="title-ix" class="level2">
-<h2 class="anchored" data-anchor-id="title-ix">Title IX</h2>
-<p>Title IX of the Education Amendments of 1972 protects individuals from sex or gender-based discrimination, including discrimination based on gender-identity, in educational programs and activities that receive federal financial assistance. Northeastern’s Title IX Policy prohibits Prohibited Offenses, which are defined as sexual harassment, sexual assault, relationship or domestic violence, and stalking. The Title IX Policy applies to the entire community, including male, female, transgender students, faculty and staff. In case of an emergency, please call NUPD at 617 373 3333. Please visit <a href="https://ouec.northeastern.edu/">ouec.northeastern.edu</a> for a complete list of reporting options and resources both on- and off-campus.</p>
+<section id="policy-on-sexual-and-gender-based-harassment-and-title-ix" class="level2">
+<h2 class="anchored" data-anchor-id="policy-on-sexual-and-gender-based-harassment-and-title-ix">Policy on Sexual and Gender-Based Harassment and Title IX</h2>
+<p>Northeastern University prohibits sex discrimination, sexual harassment, sexual assault, dating violence, domestic violence, stalking, sexual exploitation, gender-based harassment, and retaliation. The <a href="https://policies.northeastern.edu/policy104/">Policy on Sexual and Gender-Based Harassment and Title IX</a> describes how the university responds to reports of this conduct and sets out the rights and responsibilities of everyone involved. It applies to students, faculty, staff, volunteers, guests, alumni, and third parties participating in university programs or activities.<br><br> <strong>All university employees other than designated Confidential Employees must report information about possible violations to the Office for University Equity and Compliance (OUEC). This includes faculty and teaching assistants, and therefore includes me.</strong> Confidential resources are available to students who want to speak with someone who is not required to report. These include University Health and Counseling Services, the Sexual Violence Resource Center, and Confidential Resource Advising, reachable at 617-373-4459 through the Office of Prevention and Education.<br>
+Students who are pregnant or have a related condition may request reasonable modifications, including schedule changes, extensions on coursework, and rescheduled exams, through the Title IX Coordinator or Disability Access Services.<br>
+Reports may be made to OUEC at <a href="https://ouec.northeastern.edu">ouec.northeastern.edu</a>, ouec (at) northeastern.edu, or 617-373-4644. A full list of reporting options and confidential resources appears at <a href="https://ouec.northeastern.edu/resources/">ouec.northeastern.edu/resources</a>. In case of an emergency, please call NUPD at 617-373-3333.</p>
 
 
 </section>
@@ -840,7 +863,7 @@ Please visit <a href="https://belonging.northeastern.edu">belonging.northeastern
       &nbsp;
     <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/d2r2group/MATL7355/issues/new" class="toc-action"><i class="bi bi-github"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
-<p><em>Last Update:</em> January 13, 2026</p>
+<p><em>Last Update:</em> September 9, 2026</p>
 </div>
   </div>
 </footer>

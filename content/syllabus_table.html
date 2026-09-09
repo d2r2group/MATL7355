@@ -2,18 +2,24 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.26">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2026-01-13">
+<meta name="dcterms.date" content="2026-09-09">
 
 <title>syllabus_table – MATL 7355 - Thermodynamics of Materials</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -33,19 +39,16 @@ ul.task-list li input[type="checkbox"] {
 <link href="../images/favicon.ico" rel="icon">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-b758ccaa5987ceb1b75504551e579abf.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-b85bc7c33db8c58e0ec93c3465666fed.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-772ff2bcbe09c72695251a9bf2ab753f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-232e4682cfd531faa731a02c7ded2837.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="../site_libs/bootstrap/bootstrap-772ff2bcbe09c72695251a9bf2ab753f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-f05d41d5072541e2400776e809cecb37.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-4200c13e256f42cc5e203c5f516c2120.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -86,7 +89,7 @@ gtag('config', 'G-87R3RGZC2K', { 'anonymize_ip': true});
 
 </head>
 
-<body class="nav-sidebar docked quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+<body class="nav-sidebar docked quarto-dark"><script id="quarto-html-before-body" type="application/javascript">
     const toggleBodyColorMode = (bsSheetEl) => {
       const mode = bsSheetEl.getAttribute("data-mode");
       const bodyEl = window.document.querySelector("body");
@@ -228,10 +231,8 @@ gtag('config', 'G-87R3RGZC2K', { 'anonymize_ip': true});
         changeGiscusTheme();
       }
     };
-    const authorPrefersDark = false;
+    const authorPrefersDark = true;
     const darkModeDefault = authorPrefersDark;
-      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
-      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
     let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
     // Dark / light mode switch
     window.quartoToggleColorScheme = () => {
@@ -344,15 +345,17 @@ gtag('config', 'G-87R3RGZC2K', { 'anonymize_ip': true});
 
 <table class="caption-top table">
 <colgroup>
-<col style="width: 25%">
-<col style="width: 25%">
-<col style="width: 25%">
-<col style="width: 25%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
 </colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Week</th>
 <th style="text-align: left;">Date</th>
+<th style="text-align: left;">#</th>
 <th style="text-align: left;">Topic</th>
 <th style="text-align: left;">Homework Due</th>
 </tr>
@@ -360,169 +363,190 @@ gtag('config', 'G-87R3RGZC2K', { 'anonymize_ip': true});
 <tbody>
 <tr class="odd">
 <td style="text-align: left;">1</td>
-<td style="text-align: left;">Thu, 09/04</td>
+<td style="text-align: left;">Thu, 09/10</td>
+<td style="text-align: left;">01</td>
 <td style="text-align: left;">Introduction and history of thermodynamics</td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">2</td>
-<td style="text-align: left;">Tue, 09/09</td>
-<td style="text-align: left;">Basic concepts and history of the first law</td>
+<td style="text-align: left;">Tue, 09/15</td>
+<td style="text-align: left;">02</td>
+<td style="text-align: left;">Basic concepts</td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">2</td>
-<td style="text-align: left;">Thu, 09/11</td>
+<td style="text-align: left;">Thu, 09/17</td>
+<td style="text-align: left;">03</td>
 <td style="text-align: left;">First law of thermodynamics</td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">3</td>
-<td style="text-align: left;">Tue, 09/16</td>
-<td style="text-align: left;">Second law of thermodynamics</td>
+<td style="text-align: left;">Tue, 09/22</td>
+<td style="text-align: left;">04</td>
+<td style="text-align: left;">Second law of thermodynamics (I)</td>
 <td style="text-align: left;">HW 1</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">3</td>
-<td style="text-align: left;">Thu, 09/18</td>
-<td style="text-align: left;">Fundamental thermodynamic relations/equations</td>
+<td style="text-align: left;">Thu, 09/24</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"><span style="color:gray">Prof.&nbsp;Peter is traveling (no class)</span></td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">4</td>
-<td style="text-align: left;">Tue, 09/23</td>
-<td style="text-align: left;">Statistical interpretation of the second law</td>
+<td style="text-align: left;">Tue, 09/29</td>
+<td style="text-align: left;">05</td>
+<td style="text-align: left;">Second law of thermodynamics (II)</td>
 <td style="text-align: left;">HW 2</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">4</td>
-<td style="text-align: left;">Thu, 09/25</td>
-<td style="text-align: left;">Heat capacity and Thermochemistry</td>
+<td style="text-align: left;">Thu, 10/01</td>
+<td style="text-align: left;">06</td>
+<td style="text-align: left;">Fundamental thermodynamic relations</td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">5</td>
-<td style="text-align: left;">Tue, 09/30</td>
-<td style="text-align: left;">The third law of thermodynamics</td>
+<td style="text-align: left;">Tue, 10/06</td>
+<td style="text-align: left;">07</td>
+<td style="text-align: left;">Statistical thermodynamics and heat capacity</td>
 <td style="text-align: left;">HW 3</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">5</td>
-<td style="text-align: left;">Thu, 10/02</td>
-<td style="text-align: left;">Phase equilibria I: One-component systems</td>
+<td style="text-align: left;">Thu, 10/08</td>
+<td style="text-align: left;">08</td>
+<td style="text-align: left;">The third law of thermodynamics</td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">6</td>
-<td style="text-align: left;">Tue, 10/07</td>
-<td style="text-align: left;">Phase equilibria I: One-component systems</td>
+<td style="text-align: left;">Tue, 10/13</td>
+<td style="text-align: left;">09</td>
+<td style="text-align: left;">Phase equilibrium: One-component systems (I)</td>
 <td style="text-align: left;">HW 4</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">6</td>
-<td style="text-align: left;">Thu, 10/09</td>
+<td style="text-align: left;">Thu, 10/15</td>
+<td style="text-align: left;">10</td>
 <td style="text-align: left;">Review session for mid-term exam 1</td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">7</td>
-<td style="text-align: left;">Tue, 10/14</td>
+<td style="text-align: left;">Tue, 10/20</td>
+<td style="text-align: left;"></td>
 <td style="text-align: left;"><strong>Mid-term exam 1 (in-class)</strong></td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">7</td>
-<td style="text-align: left;">Thu, 10/16</td>
-<td style="text-align: left;">Thermodynamics of pure substances</td>
+<td style="text-align: left;">Thu, 10/22</td>
+<td style="text-align: left;">11</td>
+<td style="text-align: left;">Phase equilibrium: One-component systems (II)</td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">8</td>
-<td style="text-align: left;">Tue, 10/21</td>
-<td style="text-align: left;">Thermodynamics of solutions</td>
+<td style="text-align: left;">Tue, 10/27</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Thermodynamics of pure substances</td>
 <td style="text-align: left;">HW 5</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">8</td>
-<td style="text-align: left;">Thu, 10/23</td>
-<td style="text-align: left;">Thermodynamics of solutions</td>
+<td style="text-align: left;">Thu, 10/29</td>
+<td style="text-align: left;">13</td>
+<td style="text-align: left;">Thermodynamics of solutions (I)</td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">9</td>
-<td style="text-align: left;">Tue, 10/28</td>
-<td style="text-align: left;">Thermodynamics of solutions</td>
+<td style="text-align: left;">Tue, 11/03</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Thermodynamics of solutions (II)</td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">9</td>
-<td style="text-align: left;">Thu, 10/30</td>
-<td style="text-align: left;">Phase equilibria II: Two-component systems</td>
+<td style="text-align: left;">Thu, 11/05</td>
+<td style="text-align: left;">15</td>
+<td style="text-align: left;">Thermodynamics of solutions (III)</td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">10</td>
-<td style="text-align: left;">Tue, 11/04</td>
-<td style="text-align: left;">Phase equilibria II: Two-component systems</td>
+<td style="text-align: left;">Tue, 11/10</td>
+<td style="text-align: left;">16</td>
+<td style="text-align: left;">Phase equilibrium: Binary systems (I)</td>
 <td style="text-align: left;">HW 6</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">10</td>
-<td style="text-align: left;">Thu, 11/06</td>
-<td style="text-align: left;">Review session for mid-term exam 2</td>
+<td style="text-align: left;">Thu, 11/12</td>
+<td style="text-align: left;">17</td>
+<td style="text-align: left;">Phase equilibrium: Binary systems (II)</td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">11</td>
-<td style="text-align: left;">Tue, 11/11</td>
-<td style="text-align: left;"><span style="color:gray">Veteran’s Day (no class)</span></td>
+<td style="text-align: left;">Tue, 11/17</td>
+<td style="text-align: left;">18</td>
+<td style="text-align: left;">Review session for mid-term exam 2</td>
 <td style="text-align: left;">HW 7</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">11</td>
-<td style="text-align: left;">Thu, 11/13</td>
-<td style="text-align: left;"><em>Advanced topic</em></td>
+<td style="text-align: left;">Thu, 11/19</td>
 <td style="text-align: left;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">12</td>
-<td style="text-align: left;">Tue, 11/18</td>
 <td style="text-align: left;"><strong>Mid-term exam 2 (in-class)</strong></td>
 <td style="text-align: left;"></td>
 </tr>
+<tr class="even">
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">Tue, 11/24</td>
+<td style="text-align: left;">19</td>
+<td style="text-align: left;"><em>Advanced topic</em></td>
+<td style="text-align: left;"></td>
+</tr>
 <tr class="odd">
 <td style="text-align: left;">12</td>
-<td style="text-align: left;">Thu, 11/20</td>
-<td style="text-align: left;"><em>Advanced topic</em></td>
+<td style="text-align: left;">Thu, 11/26</td>
 <td style="text-align: left;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">13</td>
-<td style="text-align: left;">Tue, 11/25</td>
-<td style="text-align: left;"><em>Advanced topic</em></td>
-<td style="text-align: left;"></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">13</td>
-<td style="text-align: left;">Thu, 11/27</td>
 <td style="text-align: left;"><span style="color:gray">Thanksgiving recess (no class)</span></td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">14</td>
-<td style="text-align: left;">Tue, 12/02</td>
-<td style="text-align: left;"><strong>Final project presentations (in-class)</strong></td>
+<td style="text-align: left;">13</td>
+<td style="text-align: left;">Tue, 12/01</td>
+<td style="text-align: left;">20</td>
+<td style="text-align: left;"><em>Advanced topic</em></td>
 <td style="text-align: left;">HW 8</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">14</td>
-<td style="text-align: left;">Thu, 12/04</td>
+<td style="text-align: left;">13</td>
+<td style="text-align: left;">Thu, 12/03</td>
+<td style="text-align: left;"></td>
 <td style="text-align: left;"><strong>Final project presentations (in-class)</strong></td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">15</td>
-<td style="text-align: left;">Tue, 12/09</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Tue, 12/08</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"><strong>Final project presentations (in-class)</strong></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">Thu, 12/10</td>
+<td style="text-align: left;"></td>
 <td style="text-align: left;"><strong>Final project presentations (in-class)</strong></td>
 <td style="text-align: left;"></td>
 </tr>
@@ -960,7 +984,7 @@ gtag('config', 'G-87R3RGZC2K', { 'anonymize_ip': true});
       &nbsp;
     <div class="toc-actions"><ul><li><a href="https://github.com/d2r2group/MATL7355/issues/new" class="toc-action"><i class="bi bi-github"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
-<p><em>Last Update:</em> January 13, 2026</p>
+<p><em>Last Update:</em> September 9, 2026</p>
 </div>
   </div>
 </footer>
