@@ -2,16 +2,26 @@
 title: Other Information
 ---
 
-## Attendance
+## Attendance and Class Recordings
 
-Attendance is an important element for success in class. It is required, unless you are unable to make it due to
-illness or other urgent or emergent reasons. Contact me via email before the class time for allowed absence,
-unless you are unable to. Here is the section from the student handbook:\
+### Attendance Policy
+
+This is an in-person course and attendance at every class meeting is required; it is an important element for
+success. If illness or another urgent reason keeps you away, email me before class time whenever you can.
+From the student handbook:\
 
 > Students will not be penalized for excused absences, with the understanding that students may need to make up for the
 > academic commitment from which they were excused. Reasons for an excused absence include religious, medical issues,
-> jury duty, bereavement, and military service. See the course catalog and other applicable policies for the full
-> attendance and excusal policy.
+> jury duty, bereavement, and military service. See the course catalog and other
+> [applicable policies](https://catalog.northeastern.edu/graduate/academic-policies-procedures/students-bill-rights-responsibilities/)
+> for the full attendance and excusal policy.
+
+### Recording of Classes
+
+Class sessions will not be recorded by me unless announced in advance. Students may not record lectures, discussions,
+or student presentations by audio, video, or screen capture without my prior written permission, except where recording
+is an accommodation approved through Disability Access Services. Any permitted recording is for your personal study only
+and may not be shared, posted, or redistributed.
 
 ## Academic Rights and Responsibilities
 
@@ -32,7 +42,13 @@ Students are responsible for learning the conventions of documentation and ackno
 Northeastern University expects students to complete all examinations, tests, papers, creative projects, and
 assignments of any kind according to the highest ethical standards, as set forth either explicitly or implicitly in
 this Code or by the direction of instructors. Go to following link to access the full academic integrity policy:
-[osccr.sites.northeastern.edu/academic-integrity-policy/](https://osccr.sites.northeastern.edu/academic-integrity-policy/).<br><br>
+[catalog.northeastern.edu/handbook/policies-regulations/academic-integrity](https://catalog.northeastern.edu/handbook/policies-regulations/academic-integrity/).<br><br>
+The following are disciplinary offenses, as described in more detail in that policy, and are actionable by the
+University: cheating (including unauthorized use of generative AI outside the guidelines provided in this syllabus),
+fabrication, plagiarism, unauthorized collaboration, participation in academically dishonest activities, and
+facilitating academic dishonesty. During examinations, you are to work alone and neither give nor receive help from
+any sources. To breach the university policy on academic integrity is grounds for receiving an F in the course, and
+possible suspension or expulsion from Northeastern University.<br><br>
 Specific **examples of violating academic integrity** in this course are the following (list not exhaustive):
 
 - Copying another student's homework solutions (a reasonable amount of collaboration among students is permitted,
@@ -43,12 +59,26 @@ however not direct copying) or from online solutions
 
 ## Utilization of Generative AI
 
-Generative AI tools such as ChatGPT or Bard have become widely adopted and I encourage students to (learn to) use it.
+Generative AI tools such as ChatGPT, Claude, or Gemini have become widely adopted and I encourage students to
+(learn to) use them. This policy also covers coding assistants such as GitHub Copilot and Cursor, the generative
+features in Grammarly, and the AI summaries built into search engines and library databases.<br>
+You may use generative AI on any assignment in this course, at any stage of your work, unless stated otherwise.
 However, similar to using Google to search for information, it is up to the student to decide which output is
 trustworthy/correct and which is false ("hallucinated" information). I therefore recommend always taking any output from
 generative AI with a healthy amount of scepticism and double-check other sources (and common reasoning) to verify and
 tweak the final output. Rarely is it advisable to directly copy-paste information from generative AI and use it as
-a final answer.<br>
+a final answer.
+
+- ***Disclosure:*** include a brief note at the end of each submission naming the tool and version, what you used it
+for, and what you changed.
+- ***Verification is your responsibility:*** you remain fully responsible for everything you submit, including the
+accuracy of all results and the existence and content of every source you cite. Fabricated citations are treated as
+your error, not the tool's.
+- ***Accommodations:*** AI used as approved assistive technology, or under an accommodation arranged through
+Disability Access Services, needs no disclosure beyond the standard note.
+- ***Individual assignments may narrow this policy;*** where they do, the assignment prompt governs.
+- ***Violations of this policy*** are handled under the University's academic integrity policy linked above.
+
 For final project papers initial generative AI outputs to prompts have to be submitted alongside the final
 paper (to assess how effectively you took use of generative AI) - this enables me to grade your critical
 thinking skills and development of a subject. Details regarding this policy will be discussed during the semester.
@@ -61,28 +91,39 @@ Amendments Act (ADAAA) to participate fully in the activities of the university.
 the DAS, students must provide appropriate documentation that demonstrates a current substantially limiting disability.
 For more information, visit [disabilityaccessservices.northeastern.edu/](https://disabilityaccessservices.northeastern.edu/).
 
-## Diversity and Inclusion
+## Outreach, Engagement, Belonging
 
-Northeastern University is committed to equal opportunity, affirmative action, diversity and social justice while
-building a climate of inclusion on and beyond campus. In the classroom, members of the University community work
-to cultivate an inclusive environment that denounces discrimination through innovation, collaboration and an awareness
-of global perspectives on social justice. It is my intention that students from all backgrounds and perspectives will
+Northeastern University is committed to fostering a community of belonging, which is essential to the advancement of
+Northeastern University's mission of teaching and research. Our university is stronger as a result of the varied
+backgrounds, experiences, and perspectives that all members of our global community bring to the pursuit of knowledge.
+Embracing this pluralism is not the work of one office, department, or academic unit. It is a shared responsibility
+that spans disciplines and boundaries. By harnessing the power of our differences, we will continue to light the path
+to bold new ideas and life-changing discoveries.\
+It is my intention that students from all backgrounds and perspectives will
 be well served by this course, and that the diversity that students bring to this class will be viewed as an asset.
 I welcome individuals of all ages, backgrounds, beliefs, ethnicities, genders, gender identities, gender expressions,
 national origins, religious affiliations, sexual orientations, socioeconomic background, family education level,
 ability – and other visible and nonvisible differences. All members of this class are expected to contribute to a
-respectful, welcoming and inclusive environment for every other member of the class. Your suggestions are encouraged
+respectful, welcoming and belonging environment for every other member of the class. Your suggestions are encouraged
 and appreciated.\
-Please visit [belonging.northeastern.edu](https://belonging.northeastern.edu) for complete information on Diversity, Equity,
-and Inclusion.
+Please visit [belonging.northeastern.edu](https://belonging.northeastern.edu) for more information.
 
-## Title IX
+## Policy on Sexual and Gender-Based Harassment and Title IX
 
-Title IX of the Education Amendments of 1972 protects individuals from sex or gender-based discrimination,
-including discrimination based on gender-identity, in educational programs and activities that receive federal
-financial assistance. Northeastern’s Title IX Policy prohibits Prohibited Offenses, which are defined as sexual
-harassment, sexual assault, relationship or domestic violence, and stalking. The Title IX Policy applies to the
-entire community, including male, female, transgender students, faculty and staff. In case of an emergency,
-please call NUPD at 617 373 3333. Please visit [ouec.northeastern.edu](https://ouec.northeastern.edu/)
-for a complete list of reporting options and resources both on- and off-campus.
-
+Northeastern University prohibits sex discrimination, sexual harassment, sexual assault, dating violence, domestic
+violence, stalking, sexual exploitation, gender-based harassment, and retaliation. The
+[Policy on Sexual and Gender-Based Harassment and Title IX](https://policies.northeastern.edu/policy104/)
+describes how the university responds to reports of this conduct and sets out the rights and responsibilities of
+everyone involved. It applies to students, faculty, staff, volunteers, guests, alumni, and third parties participating
+in university programs or activities.<br><br>
+**All university employees other than designated Confidential Employees must report information about possible
+violations to the Office for University Equity and Compliance (OUEC). This includes faculty and teaching assistants,
+and therefore includes me.** Confidential resources are available to students who want to speak with someone who is
+not required to report. These include University Health and Counseling Services, the Sexual Violence Resource Center,
+and Confidential Resource Advising, reachable at 617-373-4459 through the Office of Prevention and Education.\
+Students who are pregnant or have a related condition may request reasonable modifications, including schedule changes,
+extensions on coursework, and rescheduled exams, through the Title IX Coordinator or Disability Access Services.\
+Reports may be made to OUEC at [ouec.northeastern.edu](https://ouec.northeastern.edu), ouec (at) northeastern.edu, or
+617-373-4644. A full list of reporting options and confidential resources appears at
+[ouec.northeastern.edu/resources](https://ouec.northeastern.edu/resources/). In case of an emergency, please call
+NUPD at 617-373-3333.

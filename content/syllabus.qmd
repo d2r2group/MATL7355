@@ -1,16 +1,12 @@
 ---
-title: Outline (Fall 2025)
+title: Outline (Fall 2026)
 ---
 
 The course syllabus below is a general outline of the course's content but is subject to small changes
 depending on student's interest and pace.
 
 {{< include syllabus_table.qmd >}}
-: {tbl-colwidths="[10,15,60,15]"}
+: {tbl-colwidths="[8,14,6,58,14]"}
 
 **Advanced Topics**: Ternary Phase diagrams, predominance phase diagrams, electrochemistry,
 statistical thermodynamics & molecular dynamics, phase transformations, condensed - gaseous phase reactions,...
-
-::: {.callout-note}
-Homework due dates and Thanksgiving recess are estimates and may vary year to year
-:::

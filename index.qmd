@@ -14,6 +14,11 @@ changes in materials that occur in materials processing and manufacturing. Empha
 their condensed states although gaseous phases are included where relevant. This course is a prerequisite for
 MATL7360 – *Kinetics of Phase Transformations*.
 
+## Prerequisites
+
+There are no formal prerequisites for this class. Undergraduate understanding of materials science
+(e.g., crystal structures) and calculus may be helpful, though.
+
 ::: {.callout-important title="Disclaimer"}
 While I try to keep this website as up-to-date as possible, certain details regarding syllabus, content
 and grading may change from term to term.

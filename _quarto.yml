@@ -51,8 +51,8 @@ website:
 format:
   html:
     theme:
-      light: [cosmo, theme.scss] 
       dark: [cosmo, theme-dark.scss]
+      light: [cosmo, theme.scss]
     template-partials:
       - title-block.html
     code-copy: true

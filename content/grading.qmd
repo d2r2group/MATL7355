@@ -12,7 +12,7 @@ All assignments will be accepted up to 2 calendar days late (cutoff 11:59 pm).
 
 - Assignments turned in one day late will be penalized by 10%.
 - Assignments turned in two days late will be penalized by 20%.
-- After two calendar days, assignments will not be accepted, and you will receive a 0 on the assignment.
+- After two calendar days, assignments will not be accepted, and you will receive a 0 on the assignment (100% penalty).
 
 :::
 

@@ -1,8 +1,7 @@
 | **Percentage of Final Grade** |  **Individual Grade Contribution** |
 | :--- | :--- |
 | **5%** | In-class Participation |
-| **5%** | Quizzes |
-| **10%** | Homework Assignments |
-| **25%** | Midterm Exam 1 |
-| **25%** | Midterm Exam 2 |
-| **30%** | Final project |
+| **10%** | Homework Assignments and Quizzes |
+| **30%** | Midterm Exam 1 |
+| **30%** | Midterm Exam 2 |
+| **25%** | Final project |
